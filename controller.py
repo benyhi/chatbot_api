@@ -1,4 +1,4 @@
-from .main import db, Product
+from .app import db, Product
 from flask import jsonify, request
 
 def consultar_producto(producto_id):
