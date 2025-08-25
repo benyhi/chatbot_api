@@ -1,25 +1,30 @@
+import os
+from dotenv import load_dotenv
+from langchain_openai import ChatOpenAI
 from typing import Annotated
 from typing_extensions import TypedDict
 from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
-from langchain_openai import ChatOpenAI
-from langgraph.checkpoint.sqlite import SqliteSaver
-from dotenv import load_dotenv
-import sqlite3
-import os
+from database.db_saver import get_memory_saver
 
 load_dotenv()
 api_key = os.getenv("API_KEY")
+db_url = os.getenv("DATABASE_URL")
 
 class State(TypedDict):
     messages: Annotated[list, add_messages]
 
 class ChatBot:
-    def __init__(self, db_path="bot_memory.sqlite", model="gpt-4o-mini", temperature=0.5, api_key=None):
-        # Conexión SQLite
-        self.conn = sqlite3.connect(db_path, check_same_thread=False)
-        self.memory = SqliteSaver(self.conn)
-
+    def __init__(self, model="gpt-4o-mini", temperature=0.5, api_key=api_key, memory=get_memory_saver()):
+        # Conexión y Configuracion PostgreSQL
+        # connection_kwargs = {
+        #     "prepare_threshold": 0,
+        #     "autocommit": True,
+        # }
+        # self.pool = ConnectionPool(conninfo=db_url, kwargs=connection_kwargs, max_size=20)
+        # self.memory = PostgresSaver(self.pool)
+        # self.memory.setup()
+        self.memory = memory
         # LLM síncrono, invoke únicamente
         self.llm = ChatOpenAI(model=model, temperature=temperature, api_key=api_key, streaming=False)
 
