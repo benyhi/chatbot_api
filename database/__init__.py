@@ -7,11 +7,8 @@ import os
 load_dotenv()
 DATABASE_URL = os.getenv("DATABASE_URL")
 
-# Crear motor
+# Motor
 engine = create_engine(DATABASE_URL, echo=True)
 
 # Sesiones
 SessionLocal = sessionmaker(bind=engine)
-
-# Crear tablas si no existen
-Base.metadata.create_all(engine)

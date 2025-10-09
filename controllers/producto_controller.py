@@ -1,25 +1,18 @@
-from .main import db, Product
-from flask import jsonify, request
+from database.session import get_db
+from database.models import Producto
 
 def consultar_producto(producto_id):
     """
     Consulta un producto por su ID.
-    
-    Args:
-        producto_id (int): El ID del producto a consultar.
-    
-    Returns:
-        dict: Información del producto si se encuentra, de lo contrario None.
     """
-    producto = Product.query.get(producto_id)
+    db = next(get_db())
+    producto = db.query(Producto).get(producto_id)
     if producto:
         return {
             "id": producto.id,
             "nombre": producto.name,
             "precio": producto.price,
         }
-    
-    # Si no se encuentra el producto, retornar None
     return None
 
 def crear_producto(data):
@@ -30,9 +23,11 @@ def crear_producto(data):
     Returns:
         dict: Producto creado.
     """
-    producto = Product(name=data['name'], price=data['price'])
-    db.session.add(producto)
-    db.session.commit()
+    db = next(get_db())
+    producto = Producto(name=data['name'], price=data['price'])
+    db.add(producto)
+    db.commit()
+    db.refresh(producto)
     return {
         "id": producto.id,
         "nombre": producto.name,
@@ -48,14 +43,15 @@ def actualizar_producto(producto_id, data):
     Returns:
         dict: Producto actualizado o None si no existe.
     """
-    producto = Product.query.get(producto_id)
+    db = next(get_db())
+    producto = db.query(Producto).get(producto_id)
     if not producto:
         return None
     if 'name' in data:
         producto.name = data['name']
     if 'price' in data:
         producto.price = data['price']
-    db.session.commit()
+    db.commit()
     return {
         "id": producto.id,
         "nombre": producto.name,
@@ -70,11 +66,12 @@ def eliminar_producto(producto_id):
     Returns:
         bool: True si se eliminó, False si no existe.
     """
-    producto = Product.query.get(producto_id)
+    db = next(get_db())
+    producto = db.query(Producto).get(producto_id)
     if not producto:
         return False
-    db.session.delete(producto)
-    db.session.commit()
+    db.delete(producto)
+    db.commit()
     return True
 
 def listar_productos():
@@ -83,7 +80,8 @@ def listar_productos():
     Returns:
         list: Lista de productos.
     """
-    productos = Product.query.all()
+    db = next(get_db())
+    productos = db.query(Producto).all()
     return [
         {
             "id": p.id,

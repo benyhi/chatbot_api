@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from database import SessionLocal
-from database.models import Message
+from database import SessionLocal, engine
+from database.models import Message, Base  # Importa Base
 from database.db_saver import get_memory_saver
 from services.bot_service import ChatBot
 from services.meta_service import whatsapp_adapter
@@ -12,6 +12,8 @@ dotenv.load_dotenv()
 
 app = Flask(__name__)
 CORS(app)
+
+Base.metadata.create_all(bind=engine)
 
 memory = get_memory_saver()
 memory.setup()

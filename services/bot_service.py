@@ -3,7 +3,7 @@ from database.db_saver import get_memory_saver
 from database.models import Message
 from langgraph.graph import StateGraph, START, END
 from langgraph.checkpoint.memory import MemorySaver
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from typing import TypedDict, List
 from typing_extensions import Annotated
 from dotenv import load_dotenv
@@ -26,7 +26,7 @@ class ChatBot:
             memory.setup()
 
         self.memory = memory
-        self.llm = ChatOpenAI(model=model, temperature=temperature, api_key=api_key, streaming=False)
+        self.llm = ChatOpenAI(model=model, temperature=temperature, api_key=api_key, streaming=False, max_tokens=250)
         self.graph = self._build_graph()
         self.db_session = SessionLocal()  # sesión SQLite para guardar mensajes
 
