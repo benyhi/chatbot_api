@@ -1,0 +1,1001 @@
+id,descripcion,categoria,talle,cantidad,precio
+1,Cinturón,Accesorios,M,6,14417.44
+2,Jean Mom,Pantalones,L,73,18464.05
+3,Pantalón Jogger,Pantalones,S,121,17682.93
+4,Cinturón,Accesorios,M,189,6295.21
+5,Jean Mom,Pantalones,XS,184,24862.92
+6,Campera Jean,Camperas,XS,116,25447.94
+7,Gorra,Accesorios,XS,4,13845.54
+8,Short Deportivo,Pantalones,XS,77,17730.24
+9,Pantalón Jogger,Pantalones,L,38,20694.55
+10,Buzo Frisa,Buzos,XXXL,7,31560.34
+11,Zapatillas Running,Calzado,L,68,71713.29
+12,Buzo Canguro,Buzos,S,134,25616.56
+13,Riñonera,Accesorios,S,190,8707.4
+14,Jean Skinny,Pantalones,M,94,17672.36
+15,Top Deportivo,Remeras,M,12,9335.5
+16,Puffer,Camperas,M,176,52865.38
+17,Remera Estampada,Remeras,XL,157,13574.21
+18,Gafas de Sol,Accesorios,XXXL,140,14152.68
+19,Buzo Canguro,Buzos,XL,27,34595.71
+20,Cardigan Tejido,Buzos,S,182,27809.13
+21,Sweater de Lana,Buzos,XL,135,24940.22
+22,Pantalón Jogger,Pantalones,S,92,20031.23
+23,Zapatillas Running,Calzado,M,193,31091.57
+24,Zapatillas Running,Calzado,XL,159,30864.79
+25,Campera Jean,Camperas,M,104,34146.8
+26,Remera Básica,Remeras,XS,43,14541.7
+27,Rompeviento,Camperas,S,81,38062.28
+28,Short Deportivo,Pantalones,M,9,27029.66
+29,Riñonera,Accesorios,XL,120,14483.65
+30,Hoodie Oversize,Buzos,XL,197,23055.16
+31,Bufanda,Accesorios,S,47,12673.78
+32,Short Deportivo,Pantalones,XL,122,12345.19
+33,Remera Estampada,Remeras,XL,168,8926.47
+34,Botas de Cuero,Calzado,XXL,168,48606.9
+35,Campera Inflable,Camperas,L,143,67600.99
+36,Cardigan Tejido,Buzos,L,118,15791.98
+37,Sandalias,Calzado,XL,92,60511.08
+38,Jean Mom,Pantalones,L,186,27972.08
+39,Pantalón Jogger,Pantalones,XS,181,21715.78
+40,Top Deportivo,Remeras,S,119,11158.63
+41,Pantalón Cargo,Pantalones,M,47,16769.78
+42,Top Deportivo,Remeras,XS,122,13239.9
+43,Campera Inflable,Camperas,L,98,67195.58
+44,Zapatillas Urbanas,Calzado,XL,147,58748.52
+45,Buzo Canguro,Buzos,XS,93,34999.05
+46,Campera de Cuero,Camperas,L,80,66152.46
+47,Sweater de Lana,Buzos,S,108,30624.68
+48,Botas de Cuero,Calzado,M,144,68707.37
+49,Short Deportivo,Pantalones,XL,186,22091.93
+50,Campera de Cuero,Camperas,XL,75,56389.25
+51,Buzo Canguro,Buzos,XXL,117,23793.03
+52,Botas de Cuero,Calzado,S,165,53608.05
+53,Hoodie Oversize,Buzos,XXXL,65,32839.07
+54,Ojotas,Calzado,XS,142,78931.04
+55,Pantalón Jogger,Pantalones,XS,161,25739.59
+56,Sweater de Lana,Buzos,XXL,179,31214.01
+57,Cardigan Tejido,Buzos,S,41,23420.44
+58,Sandalias,Calzado,XL,184,40481.35
+59,Remera Estampada,Remeras,XXL,107,9679.61
+60,Cardigan Tejido,Buzos,XXXL,191,28771.74
+61,Zapatillas Running,Calzado,XS,120,65583.31
+62,Pantalón Jogger,Pantalones,XS,157,27650.25
+63,Zapatillas Urbanas,Calzado,XXXL,120,71653.93
+64,Bufanda,Accesorios,XL,186,4968.18
+65,Botas de Cuero,Calzado,XXXL,58,51790.04
+66,Remera Básica,Remeras,M,10,14121.22
+67,Remera Estampada,Remeras,XXL,97,11589.98
+68,Buzo Frisa,Buzos,S,164,26505.98
+69,Puffer,Camperas,L,129,30812.66
+70,Buzo Frisa,Buzos,M,59,34169.12
+71,Riñonera,Accesorios,XXXL,40,5928.68
+72,Jean Skinny,Pantalones,S,9,18526.63
+73,Jean Skinny,Pantalones,XL,46,14340.06
+74,Pantalón Cargo,Pantalones,L,130,14988.72
+75,Riñonera,Accesorios,XXXL,166,5532.74
+76,Gafas de Sol,Accesorios,M,185,10197.1
+77,Rompeviento,Camperas,XS,181,51517.86
+78,Rompeviento,Camperas,M,53,55133.37
+79,Zapatillas Running,Calzado,XXXL,154,37963.28
+80,Pantalón Cargo,Pantalones,XXXL,6,23288.98
+81,Buzo Canguro,Buzos,S,152,29040.49
+82,Remera Oversize,Remeras,XXL,60,7169.32
+83,Short Deportivo,Pantalones,L,31,25921.34
+84,Buzo Canguro,Buzos,XXL,99,16809.78
+85,Cardigan Tejido,Buzos,L,158,17926.98
+86,Remera Estampada,Remeras,L,75,12934.17
+87,Jean Mom,Pantalones,XS,109,27372.9
+88,Rompeviento,Camperas,S,118,43709.84
+89,Puffer,Camperas,XXXL,15,32828.0
+90,Remera Básica,Remeras,XS,56,14398.15
+91,Rompeviento,Camperas,XL,181,53958.56
+92,Pantalón Jogger,Pantalones,XS,165,14361.41
+93,Remera Básica,Remeras,L,37,13049.38
+94,Zapatillas Running,Calzado,L,91,72623.79
+95,Riñonera,Accesorios,XXXL,67,6231.57
+96,Remera Estampada,Remeras,L,142,9051.18
+97,Jean Mom,Pantalones,XL,89,16262.95
+98,Hoodie Oversize,Buzos,XXL,196,25138.54
+99,Musculosa,Remeras,XL,109,14657.83
+100,Rompeviento,Camperas,L,156,31690.2
+101,Jean Skinny,Pantalones,S,51,15126.45
+102,Campera Jean,Camperas,XS,81,35036.74
+103,Bufanda,Accesorios,S,191,9992.97
+104,Cardigan Tejido,Buzos,XS,23,34713.7
+105,Remera Estampada,Remeras,L,31,6602.94
+106,Campera Jean,Camperas,XXL,16,38462.07
+107,Buzo Frisa,Buzos,XXL,78,21852.56
+108,Remera Básica,Remeras,XXXL,75,11941.57
+109,Pantalón Jogger,Pantalones,XS,62,29203.03
+110,Jean Mom,Pantalones,XXXL,89,20901.34
+111,Hoodie Oversize,Buzos,M,65,32710.57
+112,Riñonera,Accesorios,XS,136,12753.36
+113,Zapatillas Urbanas,Calzado,XXXL,34,70560.23
+114,Riñonera,Accesorios,XL,51,12187.81
+115,Pantalón Cargo,Pantalones,XL,92,23000.22
+116,Puffer,Camperas,M,43,32181.7
+117,Remera Oversize,Remeras,XXL,14,12467.08
+118,Pantalón Cargo,Pantalones,XS,132,24073.66
+119,Campera Jean,Camperas,XS,158,37962.67
+120,Cinturón,Accesorios,M,196,12733.34
+121,Top Deportivo,Remeras,XXL,4,7450.72
+122,Zapatillas Urbanas,Calzado,XS,126,48408.82
+123,Campera de Cuero,Camperas,XXXL,103,41095.35
+124,Cinturón,Accesorios,XL,158,9456.2
+125,Remera Oversize,Remeras,XL,141,6858.78
+126,Sandalias,Calzado,L,33,28109.42
+127,Cardigan Tejido,Buzos,XXL,157,19474.72
+128,Sweater de Lana,Buzos,XS,57,29674.76
+129,Short Deportivo,Pantalones,XXL,68,12678.81
+130,Gafas de Sol,Accesorios,S,139,9841.94
+131,Hoodie Oversize,Buzos,XS,32,33428.03
+132,Zapatillas Running,Calzado,S,84,29867.79
+133,Riñonera,Accesorios,L,106,6020.63
+134,Botas de Cuero,Calzado,XL,157,66745.93
+135,Campera de Cuero,Camperas,XXL,144,49628.87
+136,Remera Oversize,Remeras,XXXL,58,12418.04
+137,Pantalón Cargo,Pantalones,S,88,17132.47
+138,Campera Inflable,Camperas,XS,173,63221.68
+139,Pantalón Cargo,Pantalones,L,84,24062.2
+140,Hoodie Oversize,Buzos,XL,178,32315.4
+141,Remera Oversize,Remeras,XXL,128,14979.19
+142,Rompeviento,Camperas,S,9,61172.52
+143,Riñonera,Accesorios,XL,17,4462.56
+144,Gafas de Sol,Accesorios,XS,54,11710.73
+145,Jean Mom,Pantalones,XS,56,28117.66
+146,Remera Básica,Remeras,XXXL,76,12411.93
+147,Pantalón Cargo,Pantalones,XXXL,169,23737.01
+148,Campera Jean,Camperas,XXL,187,41096.33
+149,Jean Skinny,Pantalones,XL,81,14829.56
+150,Short Deportivo,Pantalones,XS,124,19369.53
+151,Pantalón Cargo,Pantalones,XXL,82,24694.45
+152,Zapatillas Urbanas,Calzado,XS,171,76170.61
+153,Gorra,Accesorios,XL,112,5110.5
+154,Sandalias,Calzado,M,188,59627.7
+155,Musculosa,Remeras,XXXL,93,6119.76
+156,Remera Oversize,Remeras,XXXL,32,7763.87
+157,Ojotas,Calzado,S,57,34728.86
+158,Musculosa,Remeras,XXL,108,12304.81
+159,Cardigan Tejido,Buzos,XXXL,165,26665.73
+160,Musculosa,Remeras,XL,134,13197.93
+161,Campera de Cuero,Camperas,M,135,36448.38
+162,Sweater de Lana,Buzos,XL,112,29704.48
+163,Rompeviento,Camperas,XL,120,26563.12
+164,Remera Estampada,Remeras,S,142,14401.23
+165,Gafas de Sol,Accesorios,XL,141,5699.84
+166,Cardigan Tejido,Buzos,L,58,24546.83
+167,Campera Inflable,Camperas,XS,19,65763.19
+168,Campera Inflable,Camperas,XXXL,8,35426.49
+169,Remera Oversize,Remeras,L,157,14987.42
+170,Campera de Cuero,Camperas,XXL,85,34296.19
+171,Puffer,Camperas,XXL,196,55131.4
+172,Cardigan Tejido,Buzos,M,13,16278.9
+173,Zapatillas Urbanas,Calzado,S,173,52639.71
+174,Remera Estampada,Remeras,XL,96,8974.8
+175,Gafas de Sol,Accesorios,S,141,4775.8
+176,Buzo Frisa,Buzos,XXXL,176,33303.14
+177,Campera de Cuero,Camperas,XS,46,58894.5
+178,Buzo Canguro,Buzos,XXL,14,19526.6
+179,Remera Estampada,Remeras,XXL,52,14753.15
+180,Jean Skinny,Pantalones,XXXL,32,15783.93
+181,Musculosa,Remeras,M,77,11697.5
+182,Gorra,Accesorios,XXXL,30,8821.8
+183,Gorra,Accesorios,XL,63,9538.46
+184,Puffer,Camperas,XXXL,126,42703.9
+185,Gorra,Accesorios,M,28,10049.86
+186,Sweater de Lana,Buzos,XXXL,103,18071.36
+187,Musculosa,Remeras,L,121,10527.76
+188,Jean Skinny,Pantalones,L,164,13482.72
+189,Gorra,Accesorios,M,158,12578.33
+190,Sandalias,Calzado,XXL,98,75792.4
+191,Remera Básica,Remeras,L,158,12081.87
+192,Botas de Cuero,Calzado,S,152,77144.15
+193,Rompeviento,Camperas,XXXL,162,38905.2
+194,Remera Oversize,Remeras,XS,70,12371.76
+195,Remera Básica,Remeras,XXL,50,6237.99
+196,Buzo Canguro,Buzos,M,108,19164.88
+197,Remera Oversize,Remeras,L,174,9703.07
+198,Buzo Frisa,Buzos,XS,46,24010.44
+199,Puffer,Camperas,S,185,41531.69
+200,Pantalón Jogger,Pantalones,XXL,40,27054.17
+201,Pantalón Cargo,Pantalones,XS,104,18777.98
+202,Puffer,Camperas,XL,112,46191.66
+203,Riñonera,Accesorios,XS,189,9786.76
+204,Jean Skinny,Pantalones,S,138,16180.33
+205,Bufanda,Accesorios,L,153,12429.1
+206,Musculosa,Remeras,XL,22,14713.76
+207,Musculosa,Remeras,S,11,6760.59
+208,Hoodie Oversize,Buzos,S,34,29447.1
+209,Buzo Frisa,Buzos,XL,197,18806.6
+210,Jean Mom,Pantalones,L,16,21873.68
+211,Jean Skinny,Pantalones,XXL,43,20985.86
+212,Gafas de Sol,Accesorios,M,49,9125.97
+213,Remera Estampada,Remeras,XS,75,10343.74
+214,Campera Inflable,Camperas,L,41,46865.14
+215,Jean Mom,Pantalones,L,143,18464.34
+216,Musculosa,Remeras,S,191,9894.36
+217,Buzo Canguro,Buzos,XS,185,18496.75
+218,Jean Skinny,Pantalones,XL,168,15256.73
+219,Remera Oversize,Remeras,S,59,12882.53
+220,Rompeviento,Camperas,XXXL,75,27546.43
+221,Buzo Frisa,Buzos,S,115,24436.96
+222,Zapatillas Urbanas,Calzado,XXXL,189,68188.61
+223,Short Deportivo,Pantalones,L,112,20912.71
+224,Jean Mom,Pantalones,L,1,20073.85
+225,Bufanda,Accesorios,XL,98,13301.91
+226,Cardigan Tejido,Buzos,XL,23,19064.96
+227,Jean Mom,Pantalones,S,169,26959.05
+228,Zapatillas Urbanas,Calzado,XS,140,40483.7
+229,Botas de Cuero,Calzado,XL,57,36424.97
+230,Gafas de Sol,Accesorios,XXL,150,6978.41
+231,Hoodie Oversize,Buzos,M,179,20608.85
+232,Remera Estampada,Remeras,XXXL,130,12825.41
+233,Ojotas,Calzado,M,103,73235.89
+234,Cinturón,Accesorios,L,95,8305.68
+235,Short Deportivo,Pantalones,M,61,27791.93
+236,Gorra,Accesorios,M,131,3763.62
+237,Campera Jean,Camperas,XS,67,69752.69
+238,Hoodie Oversize,Buzos,L,99,17240.69
+239,Remera Estampada,Remeras,S,66,12659.24
+240,Jean Mom,Pantalones,XXL,183,20748.51
+241,Gorra,Accesorios,XS,158,14245.92
+242,Remera Estampada,Remeras,M,156,6622.08
+243,Bufanda,Accesorios,XL,10,3575.72
+244,Zapatillas Running,Calzado,L,46,21507.73
+245,Campera Jean,Camperas,L,119,54811.24
+246,Rompeviento,Camperas,S,174,46851.44
+247,Gafas de Sol,Accesorios,M,45,6588.35
+248,Sweater de Lana,Buzos,M,161,22775.95
+249,Ojotas,Calzado,XS,113,30099.32
+250,Musculosa,Remeras,XXL,190,13961.02
+251,Hoodie Oversize,Buzos,XXXL,151,23585.36
+252,Puffer,Camperas,XXXL,85,43373.0
+253,Gafas de Sol,Accesorios,L,122,9242.65
+254,Hoodie Oversize,Buzos,XS,177,28459.65
+255,Sweater de Lana,Buzos,XS,48,18179.61
+256,Buzo Frisa,Buzos,L,17,34232.54
+257,Zapatillas Urbanas,Calzado,S,11,51073.66
+258,Jean Mom,Pantalones,L,44,21584.46
+259,Top Deportivo,Remeras,XXXL,189,6352.07
+260,Remera Básica,Remeras,XXL,80,7751.68
+261,Sandalias,Calzado,XS,166,32281.04
+262,Jean Mom,Pantalones,XL,15,13451.91
+263,Top Deportivo,Remeras,S,148,10070.08
+264,Riñonera,Accesorios,L,135,8124.92
+265,Gafas de Sol,Accesorios,L,99,12916.85
+266,Puffer,Camperas,XS,90,28981.46
+267,Remera Básica,Remeras,L,133,11072.09
+268,Bufanda,Accesorios,XL,198,4361.04
+269,Jean Skinny,Pantalones,XXL,106,18923.9
+270,Botas de Cuero,Calzado,XXL,70,40084.7
+271,Cinturón,Accesorios,XXXL,71,5305.56
+272,Musculosa,Remeras,XL,63,14939.39
+273,Jean Mom,Pantalones,M,82,18689.42
+274,Pantalón Jogger,Pantalones,L,146,18703.47
+275,Rompeviento,Camperas,L,102,64349.23
+276,Riñonera,Accesorios,XL,146,7283.11
+277,Hoodie Oversize,Buzos,L,104,24972.03
+278,Cinturón,Accesorios,XXXL,51,13955.67
+279,Gorra,Accesorios,M,56,3311.72
+280,Campera Jean,Camperas,M,122,42566.51
+281,Bufanda,Accesorios,M,93,8064.63
+282,Zapatillas Urbanas,Calzado,XS,132,45359.11
+283,Gorra,Accesorios,L,136,10379.28
+284,Campera de Cuero,Camperas,XXXL,12,64979.64
+285,Ojotas,Calzado,S,192,41668.25
+286,Cinturón,Accesorios,M,77,10313.78
+287,Short Deportivo,Pantalones,XXL,56,21759.1
+288,Puffer,Camperas,XXL,97,69495.32
+289,Sweater de Lana,Buzos,XL,44,31048.85
+290,Zapatillas Running,Calzado,XL,102,37834.67
+291,Pantalón Jogger,Pantalones,L,115,15477.89
+292,Jean Skinny,Pantalones,S,51,26786.8
+293,Remera Oversize,Remeras,L,28,9634.83
+294,Hoodie Oversize,Buzos,M,89,30422.12
+295,Sweater de Lana,Buzos,L,84,29680.72
+296,Rompeviento,Camperas,M,72,25306.09
+297,Ojotas,Calzado,L,183,78035.99
+298,Jean Mom,Pantalones,M,199,23602.57
+299,Buzo Frisa,Buzos,S,31,30157.53
+300,Botas de Cuero,Calzado,S,158,73791.6
+301,Riñonera,Accesorios,XS,177,8708.91
+302,Sandalias,Calzado,S,45,76038.19
+303,Riñonera,Accesorios,L,92,13225.61
+304,Riñonera,Accesorios,XXL,71,8442.29
+305,Bufanda,Accesorios,XXL,42,6161.7
+306,Riñonera,Accesorios,S,110,14473.21
+307,Cinturón,Accesorios,XL,127,8124.94
+308,Pantalón Jogger,Pantalones,S,167,28068.77
+309,Hoodie Oversize,Buzos,XXXL,100,23698.57
+310,Rompeviento,Camperas,XS,35,30123.62
+311,Gafas de Sol,Accesorios,M,141,14477.0
+312,Remera Oversize,Remeras,XXXL,116,7287.84
+313,Campera Inflable,Camperas,XS,117,44276.47
+314,Botas de Cuero,Calzado,XXXL,77,66360.24
+315,Sweater de Lana,Buzos,XXL,60,26628.82
+316,Puffer,Camperas,XL,78,45886.71
+317,Remera Oversize,Remeras,XL,138,13725.96
+318,Cardigan Tejido,Buzos,XXXL,10,23126.33
+319,Remera Estampada,Remeras,XXL,69,11495.05
+320,Buzo Canguro,Buzos,XL,149,16868.79
+321,Pantalón Cargo,Pantalones,XXXL,17,22805.34
+322,Campera Inflable,Camperas,L,98,69133.19
+323,Botas de Cuero,Calzado,XS,62,62412.51
+324,Puffer,Camperas,M,29,42457.34
+325,Jean Mom,Pantalones,XXL,190,25038.6
+326,Zapatillas Running,Calzado,XXL,80,36525.76
+327,Jean Skinny,Pantalones,XS,72,15678.46
+328,Musculosa,Remeras,XL,43,7991.68
+329,Riñonera,Accesorios,XXXL,176,14684.32
+330,Pantalón Cargo,Pantalones,L,187,21843.79
+331,Buzo Canguro,Buzos,S,150,27607.81
+332,Hoodie Oversize,Buzos,XS,177,15558.32
+333,Remera Estampada,Remeras,M,96,8884.33
+334,Bufanda,Accesorios,XXL,150,6309.45
+335,Cardigan Tejido,Buzos,L,95,17844.66
+336,Jean Mom,Pantalones,XXXL,62,21266.85
+337,Cinturón,Accesorios,L,79,10140.95
+338,Remera Básica,Remeras,XXL,154,8427.28
+339,Ojotas,Calzado,M,44,40214.94
+340,Zapatillas Urbanas,Calzado,XL,166,29215.31
+341,Remera Oversize,Remeras,XS,7,8045.19
+342,Remera Estampada,Remeras,XS,96,10489.09
+343,Remera Básica,Remeras,L,33,7624.92
+344,Ojotas,Calzado,M,93,37153.28
+345,Zapatillas Urbanas,Calzado,L,182,28928.1
+346,Pantalón Jogger,Pantalones,XL,118,21165.17
+347,Riñonera,Accesorios,XS,91,4042.8
+348,Pantalón Jogger,Pantalones,L,102,16750.77
+349,Gorra,Accesorios,L,128,14027.78
+350,Top Deportivo,Remeras,M,197,6705.08
+351,Hoodie Oversize,Buzos,XXL,1,29763.64
+352,Riñonera,Accesorios,XL,20,7991.67
+353,Sweater de Lana,Buzos,S,65,28357.84
+354,Campera Inflable,Camperas,L,32,49669.28
+355,Remera Estampada,Remeras,S,101,13102.24
+356,Zapatillas Urbanas,Calzado,XL,104,47701.54
+357,Sandalias,Calzado,XS,57,40072.49
+358,Campera Inflable,Camperas,XXXL,128,30828.74
+359,Sandalias,Calzado,XXL,104,74123.44
+360,Campera Jean,Camperas,S,187,29923.76
+361,Campera de Cuero,Camperas,XL,16,33395.86
+362,Jean Mom,Pantalones,M,91,27066.41
+363,Cinturón,Accesorios,XXXL,8,9165.4
+364,Campera de Cuero,Camperas,S,3,56835.7
+365,Buzo Canguro,Buzos,M,75,20016.67
+366,Campera Inflable,Camperas,S,176,62041.47
+367,Jean Skinny,Pantalones,S,181,13353.71
+368,Remera Básica,Remeras,XL,126,10881.58
+369,Hoodie Oversize,Buzos,XXL,123,19384.71
+370,Musculosa,Remeras,L,185,6757.41
+371,Bufanda,Accesorios,XXL,115,8204.09
+372,Puffer,Camperas,M,131,52955.6
+373,Campera Inflable,Camperas,XXXL,175,52921.38
+374,Zapatillas Running,Calzado,S,112,25128.09
+375,Top Deportivo,Remeras,S,56,8729.37
+376,Cardigan Tejido,Buzos,XL,10,27585.07
+377,Jean Skinny,Pantalones,XXL,158,18364.18
+378,Botas de Cuero,Calzado,S,19,39288.65
+379,Ojotas,Calzado,M,113,31206.08
+380,Pantalón Cargo,Pantalones,M,16,21648.88
+381,Campera de Cuero,Camperas,XL,159,60611.86
+382,Zapatillas Urbanas,Calzado,XL,106,25613.26
+383,Jean Mom,Pantalones,M,99,15041.05
+384,Sweater de Lana,Buzos,XL,67,28313.67
+385,Campera de Cuero,Camperas,S,191,44390.1
+386,Bufanda,Accesorios,XL,159,6677.62
+387,Buzo Frisa,Buzos,XXL,167,29962.75
+388,Pantalón Cargo,Pantalones,M,40,29157.41
+389,Remera Estampada,Remeras,XS,34,14754.69
+390,Gafas de Sol,Accesorios,XL,63,12909.59
+391,Rompeviento,Camperas,XL,13,41830.94
+392,Buzo Canguro,Buzos,M,40,28618.7
+393,Pantalón Jogger,Pantalones,XXL,131,12601.62
+394,Musculosa,Remeras,M,87,7600.23
+395,Botas de Cuero,Calzado,XXXL,127,68524.38
+396,Gafas de Sol,Accesorios,S,179,6003.34
+397,Remera Oversize,Remeras,S,45,12672.54
+398,Bufanda,Accesorios,XXXL,51,14104.16
+399,Pantalón Cargo,Pantalones,XXXL,171,29003.19
+400,Bufanda,Accesorios,XS,60,4171.45
+401,Gorra,Accesorios,XXXL,15,8077.92
+402,Hoodie Oversize,Buzos,XXXL,70,31044.17
+403,Zapatillas Urbanas,Calzado,XL,48,68881.01
+404,Pantalón Jogger,Pantalones,L,4,29195.99
+405,Remera Estampada,Remeras,XXXL,144,12293.14
+406,Pantalón Cargo,Pantalones,XL,156,15755.39
+407,Jean Mom,Pantalones,M,46,15871.17
+408,Campera Jean,Camperas,XXXL,14,26986.38
+409,Campera Jean,Camperas,S,88,35011.45
+410,Gafas de Sol,Accesorios,L,80,8893.35
+411,Sandalias,Calzado,M,44,28096.11
+412,Zapatillas Running,Calzado,XXXL,126,56051.89
+413,Botas de Cuero,Calzado,L,88,35512.95
+414,Buzo Frisa,Buzos,XL,8,32139.3
+415,Pantalón Jogger,Pantalones,S,17,20537.88
+416,Gafas de Sol,Accesorios,XXXL,105,8653.27
+417,Campera Jean,Camperas,XXXL,109,60262.2
+418,Sweater de Lana,Buzos,M,104,19459.18
+419,Cinturón,Accesorios,XXL,105,10343.67
+420,Remera Estampada,Remeras,S,105,7647.71
+421,Gorra,Accesorios,XL,152,14558.16
+422,Zapatillas Running,Calzado,XXL,147,31070.4
+423,Remera Estampada,Remeras,XS,81,14203.09
+424,Ojotas,Calzado,XS,158,78761.91
+425,Campera Jean,Camperas,S,43,62228.49
+426,Campera de Cuero,Camperas,XXL,133,33293.95
+427,Puffer,Camperas,S,61,66233.36
+428,Campera Inflable,Camperas,L,178,68797.37
+429,Hoodie Oversize,Buzos,XS,149,32185.3
+430,Ojotas,Calzado,XL,23,40879.66
+431,Remera Básica,Remeras,M,36,10388.01
+432,Puffer,Camperas,XS,80,46133.61
+433,Zapatillas Running,Calzado,XS,90,77497.46
+434,Riñonera,Accesorios,XL,53,7412.38
+435,Hoodie Oversize,Buzos,M,40,34356.11
+436,Short Deportivo,Pantalones,XXXL,110,26983.01
+437,Pantalón Cargo,Pantalones,XXL,103,22325.21
+438,Top Deportivo,Remeras,XXXL,41,11191.44
+439,Campera de Cuero,Camperas,S,70,62490.89
+440,Remera Oversize,Remeras,XXL,165,10019.77
+441,Remera Oversize,Remeras,S,185,8439.99
+442,Bufanda,Accesorios,M,70,3591.95
+443,Campera Jean,Camperas,M,182,65403.69
+444,Pantalón Cargo,Pantalones,XL,94,26470.09
+445,Sandalias,Calzado,XL,63,55176.08
+446,Campera Inflable,Camperas,XXL,148,30104.3
+447,Buzo Frisa,Buzos,XS,183,23122.18
+448,Puffer,Camperas,S,114,59255.71
+449,Campera de Cuero,Camperas,XS,190,50410.79
+450,Bufanda,Accesorios,S,11,14609.41
+451,Ojotas,Calzado,L,87,55838.6
+452,Botas de Cuero,Calzado,XS,159,48405.79
+453,Short Deportivo,Pantalones,XXL,189,18491.09
+454,Ojotas,Calzado,XXXL,110,28586.57
+455,Remera Básica,Remeras,M,109,12725.88
+456,Pantalón Cargo,Pantalones,L,144,23695.81
+457,Campera de Cuero,Camperas,XXL,175,66443.86
+458,Buzo Canguro,Buzos,XL,39,17643.02
+459,Jean Mom,Pantalones,L,183,22292.62
+460,Jean Skinny,Pantalones,XL,140,25680.89
+461,Sandalias,Calzado,S,14,32428.04
+462,Gafas de Sol,Accesorios,XS,54,11599.36
+463,Cardigan Tejido,Buzos,XXL,39,30434.87
+464,Hoodie Oversize,Buzos,M,96,31159.49
+465,Remera Oversize,Remeras,XS,161,13227.48
+466,Campera Inflable,Camperas,XXXL,156,44814.42
+467,Pantalón Cargo,Pantalones,XS,137,15812.25
+468,Zapatillas Urbanas,Calzado,M,108,70646.52
+469,Pantalón Jogger,Pantalones,L,179,12571.56
+470,Hoodie Oversize,Buzos,L,101,16223.65
+471,Ojotas,Calzado,M,57,47197.43
+472,Rompeviento,Camperas,XXXL,145,44655.6
+473,Buzo Frisa,Buzos,XL,20,22671.28
+474,Rompeviento,Camperas,XXXL,33,56045.87
+475,Pantalón Jogger,Pantalones,XL,43,25459.79
+476,Campera Inflable,Camperas,XXL,86,45890.2
+477,Gafas de Sol,Accesorios,L,27,3429.87
+478,Gorra,Accesorios,XXXL,120,9942.62
+479,Cinturón,Accesorios,L,96,7435.49
+480,Remera Básica,Remeras,XL,155,8840.03
+481,Remera Básica,Remeras,S,103,10216.57
+482,Cardigan Tejido,Buzos,L,138,25674.13
+483,Riñonera,Accesorios,L,86,12611.52
+484,Hoodie Oversize,Buzos,S,144,20837.76
+485,Campera de Cuero,Camperas,S,171,36364.42
+486,Bufanda,Accesorios,M,143,10194.84
+487,Bufanda,Accesorios,M,177,8380.82
+488,Sandalias,Calzado,XXL,138,36799.52
+489,Pantalón Cargo,Pantalones,M,127,24073.24
+490,Short Deportivo,Pantalones,XXXL,23,28176.5
+491,Jean Mom,Pantalones,S,82,12895.34
+492,Campera Inflable,Camperas,L,126,38591.79
+493,Cinturón,Accesorios,XXL,93,14711.55
+494,Pantalón Cargo,Pantalones,XXXL,4,24134.03
+495,Puffer,Camperas,L,161,49423.69
+496,Sandalias,Calzado,L,105,41015.73
+497,Top Deportivo,Remeras,XL,85,13164.38
+498,Remera Oversize,Remeras,XS,69,10011.75
+499,Gorra,Accesorios,XXXL,116,3477.39
+500,Riñonera,Accesorios,S,77,13996.88
+501,Remera Oversize,Remeras,S,69,11052.2
+502,Botas de Cuero,Calzado,XS,120,21215.34
+503,Hoodie Oversize,Buzos,XS,15,18572.11
+504,Buzo Frisa,Buzos,XXXL,38,33139.07
+505,Cardigan Tejido,Buzos,XL,143,21398.2
+506,Campera de Cuero,Camperas,M,85,37691.46
+507,Cardigan Tejido,Buzos,L,155,26303.51
+508,Rompeviento,Camperas,XL,180,52732.75
+509,Puffer,Camperas,M,170,44492.15
+510,Rompeviento,Camperas,M,46,38738.33
+511,Sandalias,Calzado,XXXL,37,43780.13
+512,Buzo Frisa,Buzos,XXXL,160,27004.52
+513,Sandalias,Calzado,XS,16,56302.71
+514,Remera Oversize,Remeras,L,170,6860.51
+515,Sweater de Lana,Buzos,S,66,25405.65
+516,Cinturón,Accesorios,L,156,10827.51
+517,Sandalias,Calzado,XXXL,48,44409.84
+518,Jean Mom,Pantalones,XXXL,180,14982.54
+519,Remera Oversize,Remeras,XL,89,11991.97
+520,Pantalón Jogger,Pantalones,XL,86,27580.71
+521,Ojotas,Calzado,S,180,31690.99
+522,Pantalón Cargo,Pantalones,L,199,23497.04
+523,Pantalón Cargo,Pantalones,XS,89,26512.29
+524,Cinturón,Accesorios,XXXL,27,7832.42
+525,Hoodie Oversize,Buzos,XXL,159,23557.55
+526,Remera Oversize,Remeras,XL,187,14057.42
+527,Jean Skinny,Pantalones,L,63,18977.26
+528,Bufanda,Accesorios,S,152,8482.8
+529,Jean Mom,Pantalones,XL,198,23501.79
+530,Jean Mom,Pantalones,XXXL,104,14206.29
+531,Zapatillas Urbanas,Calzado,XXXL,61,40405.05
+532,Jean Mom,Pantalones,L,137,16225.7
+533,Campera Inflable,Camperas,XL,158,56043.25
+534,Ojotas,Calzado,S,76,50420.47
+535,Botas de Cuero,Calzado,XL,163,60064.68
+536,Hoodie Oversize,Buzos,XS,66,32605.4
+537,Cinturón,Accesorios,XXXL,16,5924.83
+538,Puffer,Camperas,XXL,78,39689.3
+539,Jean Mom,Pantalones,XXL,118,26849.2
+540,Musculosa,Remeras,XXXL,39,6167.31
+541,Zapatillas Urbanas,Calzado,XS,8,35145.24
+542,Puffer,Camperas,XL,6,35916.03
+543,Remera Oversize,Remeras,XS,198,12535.64
+544,Remera Oversize,Remeras,XXL,77,10062.03
+545,Gafas de Sol,Accesorios,S,11,10959.64
+546,Musculosa,Remeras,S,55,12665.25
+547,Riñonera,Accesorios,XXXL,68,5428.78
+548,Remera Estampada,Remeras,M,65,11732.68
+549,Ojotas,Calzado,L,154,26853.72
+550,Remera Oversize,Remeras,L,162,6573.61
+551,Remera Básica,Remeras,L,59,12542.18
+552,Jean Mom,Pantalones,XXL,53,29408.05
+553,Remera Estampada,Remeras,XXL,84,11921.75
+554,Campera de Cuero,Camperas,XXL,156,42497.59
+555,Cardigan Tejido,Buzos,M,140,31009.59
+556,Ojotas,Calzado,M,128,53881.48
+557,Top Deportivo,Remeras,M,107,12333.83
+558,Botas de Cuero,Calzado,XXL,107,70703.8
+559,Gafas de Sol,Accesorios,XXXL,126,12081.11
+560,Riñonera,Accesorios,XS,121,13612.43
+561,Top Deportivo,Remeras,XS,133,8221.88
+562,Pantalón Cargo,Pantalones,S,112,22929.2
+563,Campera Inflable,Camperas,S,25,44072.64
+564,Ojotas,Calzado,S,70,59316.44
+565,Remera Básica,Remeras,XXXL,38,7427.79
+566,Buzo Canguro,Buzos,S,66,22941.97
+567,Short Deportivo,Pantalones,XXL,56,15891.98
+568,Hoodie Oversize,Buzos,XXL,128,23574.03
+569,Gorra,Accesorios,S,147,11644.71
+570,Pantalón Jogger,Pantalones,XL,156,15615.46
+571,Remera Estampada,Remeras,XXL,120,14216.18
+572,Hoodie Oversize,Buzos,XL,88,16333.7
+573,Buzo Canguro,Buzos,XXL,126,15679.92
+574,Campera Inflable,Camperas,S,132,25554.94
+575,Top Deportivo,Remeras,S,1,11178.49
+576,Gafas de Sol,Accesorios,M,25,8383.53
+577,Top Deportivo,Remeras,XXL,107,14320.54
+578,Botas de Cuero,Calzado,S,163,77209.08
+579,Short Deportivo,Pantalones,S,58,14147.28
+580,Jean Mom,Pantalones,XS,144,12036.05
+581,Musculosa,Remeras,XS,8,14192.42
+582,Cinturón,Accesorios,S,179,11965.41
+583,Sandalias,Calzado,XXXL,29,54529.31
+584,Puffer,Camperas,S,50,66695.96
+585,Sweater de Lana,Buzos,XL,56,26313.17
+586,Rompeviento,Camperas,XL,179,57167.62
+587,Riñonera,Accesorios,XS,183,4825.87
+588,Cardigan Tejido,Buzos,XS,8,33930.52
+589,Musculosa,Remeras,M,119,12991.49
+590,Sweater de Lana,Buzos,L,17,16008.9
+591,Gafas de Sol,Accesorios,XXL,154,9858.36
+592,Gorra,Accesorios,XL,142,3478.08
+593,Zapatillas Running,Calzado,L,29,46099.55
+594,Gorra,Accesorios,L,160,9455.51
+595,Cardigan Tejido,Buzos,S,179,33705.49
+596,Gafas de Sol,Accesorios,L,106,5121.42
+597,Botas de Cuero,Calzado,XL,32,50683.28
+598,Buzo Canguro,Buzos,L,119,16962.06
+599,Remera Oversize,Remeras,XS,182,14720.93
+600,Zapatillas Urbanas,Calzado,XXXL,147,33887.07
+601,Riñonera,Accesorios,XXL,116,8576.3
+602,Remera Oversize,Remeras,M,129,10748.79
+603,Jean Mom,Pantalones,XS,154,13133.2
+604,Sweater de Lana,Buzos,XXXL,118,32302.24
+605,Gafas de Sol,Accesorios,XL,150,6372.27
+606,Riñonera,Accesorios,XL,40,9741.51
+607,Buzo Frisa,Buzos,XS,136,15542.96
+608,Campera Inflable,Camperas,L,140,32828.43
+609,Campera de Cuero,Camperas,XL,30,40631.73
+610,Top Deportivo,Remeras,M,58,9847.7
+611,Campera Inflable,Camperas,S,106,38171.17
+612,Cardigan Tejido,Buzos,XL,51,34100.99
+613,Puffer,Camperas,XS,23,27892.7
+614,Botas de Cuero,Calzado,XS,123,55796.52
+615,Remera Oversize,Remeras,XXL,179,6476.68
+616,Jean Skinny,Pantalones,XXXL,107,26683.88
+617,Puffer,Camperas,XL,27,61043.55
+618,Cinturón,Accesorios,XS,105,11813.42
+619,Buzo Frisa,Buzos,S,154,21212.62
+620,Sweater de Lana,Buzos,S,137,29236.75
+621,Musculosa,Remeras,L,121,12295.32
+622,Buzo Canguro,Buzos,S,77,25074.66
+623,Campera Inflable,Camperas,M,38,30176.08
+624,Cinturón,Accesorios,M,90,6248.02
+625,Gorra,Accesorios,S,77,10877.98
+626,Pantalón Cargo,Pantalones,XL,104,24449.6
+627,Cardigan Tejido,Buzos,XL,196,21009.74
+628,Cardigan Tejido,Buzos,XXL,78,24120.81
+629,Rompeviento,Camperas,XXXL,31,27229.53
+630,Riñonera,Accesorios,XS,128,14755.59
+631,Puffer,Camperas,L,90,56329.99
+632,Gorra,Accesorios,S,176,8814.53
+633,Jean Mom,Pantalones,L,64,18740.61
+634,Botas de Cuero,Calzado,S,37,51307.06
+635,Pantalón Jogger,Pantalones,L,166,23836.62
+636,Campera Inflable,Camperas,M,196,25484.39
+637,Campera Inflable,Camperas,M,160,44204.1
+638,Campera de Cuero,Camperas,L,20,53568.77
+639,Remera Básica,Remeras,XXL,57,8956.28
+640,Remera Oversize,Remeras,M,179,14523.56
+641,Puffer,Camperas,L,16,42538.14
+642,Sweater de Lana,Buzos,XXXL,40,31814.93
+643,Campera Jean,Camperas,XS,113,61582.32
+644,Cardigan Tejido,Buzos,S,10,16812.05
+645,Remera Estampada,Remeras,XXXL,82,11115.67
+646,Buzo Frisa,Buzos,XXL,131,27572.17
+647,Cardigan Tejido,Buzos,L,41,32763.73
+648,Zapatillas Running,Calzado,L,150,22388.98
+649,Remera Básica,Remeras,XS,89,13092.0
+650,Musculosa,Remeras,M,200,10673.37
+651,Zapatillas Running,Calzado,L,126,78039.07
+652,Top Deportivo,Remeras,S,101,10090.34
+653,Gafas de Sol,Accesorios,XL,128,13036.96
+654,Ojotas,Calzado,XXL,47,33005.78
+655,Rompeviento,Camperas,XL,14,67192.07
+656,Short Deportivo,Pantalones,XS,163,23919.29
+657,Gorra,Accesorios,XXL,24,11262.64
+658,Bufanda,Accesorios,S,192,13598.38
+659,Top Deportivo,Remeras,XXL,23,10843.51
+660,Pantalón Jogger,Pantalones,S,28,16607.23
+661,Botas de Cuero,Calzado,L,190,55570.37
+662,Bufanda,Accesorios,XS,126,12950.27
+663,Campera Inflable,Camperas,XXXL,182,48741.82
+664,Gafas de Sol,Accesorios,XS,46,8912.64
+665,Buzo Canguro,Buzos,S,195,22823.97
+666,Remera Estampada,Remeras,M,108,7989.84
+667,Jean Mom,Pantalones,XS,195,12968.09
+668,Campera Jean,Camperas,XS,35,52108.15
+669,Jean Mom,Pantalones,L,16,28558.4
+670,Buzo Frisa,Buzos,XS,105,26190.26
+671,Gorra,Accesorios,XL,43,11192.06
+672,Jean Skinny,Pantalones,L,128,19744.38
+673,Short Deportivo,Pantalones,M,43,21628.0
+674,Campera Inflable,Camperas,M,177,55251.17
+675,Sweater de Lana,Buzos,XXXL,50,18933.46
+676,Pantalón Jogger,Pantalones,M,72,20834.38
+677,Remera Básica,Remeras,M,169,9590.92
+678,Remera Oversize,Remeras,XL,180,6214.73
+679,Buzo Canguro,Buzos,L,48,32309.76
+680,Cinturón,Accesorios,M,109,3221.67
+681,Puffer,Camperas,L,59,66322.59
+682,Riñonera,Accesorios,S,24,8877.69
+683,Bufanda,Accesorios,L,182,10113.89
+684,Remera Estampada,Remeras,L,94,14809.18
+685,Jean Mom,Pantalones,XS,118,23816.68
+686,Remera Básica,Remeras,XXXL,139,13581.1
+687,Sweater de Lana,Buzos,XS,44,20100.69
+688,Buzo Canguro,Buzos,XXL,138,21734.5
+689,Pantalón Jogger,Pantalones,XXXL,80,21551.23
+690,Bufanda,Accesorios,XXXL,97,14304.05
+691,Campera Inflable,Camperas,S,159,63320.72
+692,Jean Skinny,Pantalones,XXL,132,28305.17
+693,Sweater de Lana,Buzos,M,102,23332.58
+694,Jean Skinny,Pantalones,XXXL,63,25712.72
+695,Remera Básica,Remeras,XS,108,9732.57
+696,Remera Estampada,Remeras,S,21,9705.88
+697,Hoodie Oversize,Buzos,XL,69,32701.5
+698,Campera de Cuero,Camperas,XS,161,49463.55
+699,Cinturón,Accesorios,S,4,14403.69
+700,Campera Jean,Camperas,M,67,62097.18
+701,Musculosa,Remeras,L,160,8565.7
+702,Zapatillas Running,Calzado,L,131,66854.51
+703,Jean Mom,Pantalones,M,56,18443.39
+704,Remera Básica,Remeras,XS,162,10578.59
+705,Cinturón,Accesorios,XL,49,14348.21
+706,Sandalias,Calzado,S,55,56768.73
+707,Gorra,Accesorios,L,20,12241.89
+708,Zapatillas Running,Calzado,L,81,54961.99
+709,Remera Oversize,Remeras,L,77,6712.33
+710,Sandalias,Calzado,S,55,68632.71
+711,Buzo Canguro,Buzos,XXXL,46,33733.96
+712,Sweater de Lana,Buzos,XXL,17,23100.71
+713,Zapatillas Urbanas,Calzado,M,115,73182.21
+714,Campera Inflable,Camperas,S,198,41653.22
+715,Ojotas,Calzado,M,153,67806.17
+716,Pantalón Cargo,Pantalones,XS,187,29276.63
+717,Musculosa,Remeras,XL,183,12321.88
+718,Campera Jean,Camperas,XS,5,67650.53
+719,Buzo Canguro,Buzos,S,14,26891.05
+720,Campera Inflable,Camperas,M,162,35596.24
+721,Pantalón Jogger,Pantalones,L,172,12593.63
+722,Musculosa,Remeras,L,132,7671.3
+723,Pantalón Cargo,Pantalones,L,59,26713.49
+724,Remera Oversize,Remeras,XL,33,11048.4
+725,Pantalón Jogger,Pantalones,XL,87,29343.43
+726,Gafas de Sol,Accesorios,XS,76,7009.86
+727,Sandalias,Calzado,M,122,34278.34
+728,Remera Estampada,Remeras,XXL,77,9828.69
+729,Jean Skinny,Pantalones,XXXL,122,20484.3
+730,Sweater de Lana,Buzos,M,52,30180.72
+731,Bufanda,Accesorios,S,116,14309.26
+732,Buzo Canguro,Buzos,XL,75,22119.73
+733,Bufanda,Accesorios,S,199,6678.49
+734,Hoodie Oversize,Buzos,XXL,163,29779.02
+735,Campera de Cuero,Camperas,XXXL,36,38854.77
+736,Remera Básica,Remeras,S,11,14715.59
+737,Top Deportivo,Remeras,S,80,9484.25
+738,Riñonera,Accesorios,M,60,4801.43
+739,Pantalón Jogger,Pantalones,XS,163,24382.73
+740,Sandalias,Calzado,S,130,59062.15
+741,Campera Jean,Camperas,XS,192,44460.17
+742,Top Deportivo,Remeras,XXL,184,11523.91
+743,Bufanda,Accesorios,S,1,6620.83
+744,Jean Mom,Pantalones,S,131,20111.65
+745,Sweater de Lana,Buzos,XL,97,23552.24
+746,Pantalón Cargo,Pantalones,S,14,23656.96
+747,Bufanda,Accesorios,L,38,4242.19
+748,Buzo Frisa,Buzos,L,22,17809.2
+749,Remera Básica,Remeras,XS,195,14954.33
+750,Sandalias,Calzado,M,62,43424.2
+751,Sandalias,Calzado,XXL,31,53314.93
+752,Sandalias,Calzado,S,118,30361.31
+753,Jean Mom,Pantalones,XXXL,149,20639.0
+754,Campera Jean,Camperas,XXXL,164,64938.22
+755,Rompeviento,Camperas,M,49,56470.19
+756,Sandalias,Calzado,XS,194,69055.51
+757,Hoodie Oversize,Buzos,M,183,15982.72
+758,Zapatillas Running,Calzado,XXL,95,36821.35
+759,Remera Estampada,Remeras,XL,163,8495.05
+760,Short Deportivo,Pantalones,XL,138,19426.42
+761,Gafas de Sol,Accesorios,XXXL,22,5042.04
+762,Zapatillas Running,Calzado,L,42,58362.25
+763,Remera Básica,Remeras,S,179,7427.64
+764,Zapatillas Running,Calzado,XL,118,46543.17
+765,Puffer,Camperas,M,185,39449.74
+766,Jean Skinny,Pantalones,XL,71,14672.83
+767,Cardigan Tejido,Buzos,XS,108,30675.9
+768,Remera Estampada,Remeras,XXL,163,12471.86
+769,Campera Inflable,Camperas,L,151,55235.7
+770,Bufanda,Accesorios,L,14,5591.53
+771,Bufanda,Accesorios,M,110,11112.2
+772,Pantalón Jogger,Pantalones,XS,62,15930.95
+773,Buzo Canguro,Buzos,XXL,90,22130.74
+774,Ojotas,Calzado,S,2,63928.87
+775,Rompeviento,Camperas,XL,171,61083.8
+776,Buzo Frisa,Buzos,XS,153,18945.54
+777,Pantalón Cargo,Pantalones,XS,66,25844.62
+778,Rompeviento,Camperas,L,128,26640.4
+779,Remera Estampada,Remeras,M,108,12388.57
+780,Gafas de Sol,Accesorios,XS,98,14796.92
+781,Ojotas,Calzado,S,171,50320.33
+782,Sandalias,Calzado,XXL,17,51824.38
+783,Remera Oversize,Remeras,S,91,9395.53
+784,Musculosa,Remeras,XXXL,37,8819.58
+785,Cinturón,Accesorios,XXL,76,4602.69
+786,Sweater de Lana,Buzos,M,66,32453.03
+787,Sweater de Lana,Buzos,XS,158,21699.03
+788,Remera Oversize,Remeras,XS,40,12100.67
+789,Buzo Frisa,Buzos,XXXL,98,25360.92
+790,Zapatillas Running,Calzado,L,21,49976.16
+791,Pantalón Cargo,Pantalones,XL,147,20931.0
+792,Musculosa,Remeras,XXL,77,6922.09
+793,Zapatillas Urbanas,Calzado,M,101,51295.75
+794,Campera Jean,Camperas,M,64,60558.28
+795,Puffer,Camperas,XXL,138,63439.93
+796,Cardigan Tejido,Buzos,S,3,29582.09
+797,Campera Jean,Camperas,L,173,32064.48
+798,Short Deportivo,Pantalones,S,34,27402.38
+799,Hoodie Oversize,Buzos,XXL,151,28596.29
+800,Rompeviento,Camperas,S,173,56583.36
+801,Jean Skinny,Pantalones,M,114,27763.7
+802,Campera de Cuero,Camperas,M,89,57620.08
+803,Rompeviento,Camperas,XXXL,122,33709.23
+804,Campera de Cuero,Camperas,XXXL,77,27119.19
+805,Cinturón,Accesorios,XL,24,6880.63
+806,Buzo Canguro,Buzos,XXXL,137,18294.36
+807,Pantalón Cargo,Pantalones,XS,148,22817.1
+808,Gorra,Accesorios,M,132,7039.84
+809,Rompeviento,Camperas,M,79,39303.88
+810,Sandalias,Calzado,S,27,77624.86
+811,Gafas de Sol,Accesorios,S,93,11314.53
+812,Short Deportivo,Pantalones,L,118,24649.53
+813,Botas de Cuero,Calzado,XL,122,23333.26
+814,Gorra,Accesorios,XL,89,10892.73
+815,Jean Skinny,Pantalones,M,147,19894.98
+816,Zapatillas Urbanas,Calzado,XXL,64,67484.82
+817,Campera de Cuero,Camperas,XXXL,7,40878.31
+818,Campera de Cuero,Camperas,S,60,41041.35
+819,Campera Jean,Camperas,XXXL,31,41675.53
+820,Zapatillas Running,Calzado,M,196,30488.87
+821,Rompeviento,Camperas,XL,177,38973.26
+822,Remera Oversize,Remeras,XS,14,8443.44
+823,Remera Estampada,Remeras,S,180,9075.47
+824,Pantalón Jogger,Pantalones,XXL,85,28822.48
+825,Campera Inflable,Camperas,XXL,4,61301.88
+826,Zapatillas Urbanas,Calzado,M,60,52487.02
+827,Botas de Cuero,Calzado,XXXL,129,24803.8
+828,Campera Jean,Camperas,XXXL,192,48945.67
+829,Campera Inflable,Camperas,S,89,31683.26
+830,Campera Inflable,Camperas,M,191,36212.28
+831,Buzo Frisa,Buzos,L,37,27755.41
+832,Top Deportivo,Remeras,L,30,12153.47
+833,Sweater de Lana,Buzos,XS,24,31254.22
+834,Campera de Cuero,Camperas,XL,16,50674.2
+835,Botas de Cuero,Calzado,XS,95,54140.01
+836,Jean Mom,Pantalones,XXXL,58,23105.7
+837,Riñonera,Accesorios,XL,80,10987.47
+838,Bufanda,Accesorios,L,46,6591.48
+839,Hoodie Oversize,Buzos,XXXL,152,34757.75
+840,Ojotas,Calzado,XS,144,40536.83
+841,Campera de Cuero,Camperas,M,134,55583.15
+842,Remera Básica,Remeras,XXXL,89,11732.7
+843,Campera de Cuero,Camperas,XS,187,63996.68
+844,Puffer,Camperas,XXL,38,63459.82
+845,Gorra,Accesorios,S,144,7880.66
+846,Zapatillas Urbanas,Calzado,S,81,77589.32
+847,Cinturón,Accesorios,XS,80,3228.71
+848,Gorra,Accesorios,M,166,9628.55
+849,Short Deportivo,Pantalones,XS,115,18213.37
+850,Gafas de Sol,Accesorios,XXXL,51,4922.69
+851,Puffer,Camperas,XXXL,111,47032.94
+852,Buzo Canguro,Buzos,XL,90,19584.35
+853,Top Deportivo,Remeras,S,47,9995.13
+854,Ojotas,Calzado,S,73,37092.62
+855,Buzo Canguro,Buzos,XS,76,22592.49
+856,Sandalias,Calzado,S,39,52110.09
+857,Cinturón,Accesorios,XXXL,109,9124.64
+858,Ojotas,Calzado,XXL,47,27065.17
+859,Campera Inflable,Camperas,XL,25,62210.7
+860,Sweater de Lana,Buzos,L,53,22672.35
+861,Buzo Frisa,Buzos,XS,94,19522.82
+862,Gafas de Sol,Accesorios,S,149,3849.78
+863,Botas de Cuero,Calzado,L,26,30255.0
+864,Riñonera,Accesorios,XXL,118,10440.49
+865,Campera de Cuero,Camperas,XL,184,56390.69
+866,Botas de Cuero,Calzado,L,158,76002.09
+867,Ojotas,Calzado,XL,29,36669.53
+868,Cardigan Tejido,Buzos,XS,44,29165.72
+869,Zapatillas Running,Calzado,XXXL,152,46913.1
+870,Pantalón Jogger,Pantalones,XXL,113,12937.76
+871,Zapatillas Running,Calzado,M,75,40267.11
+872,Ojotas,Calzado,XL,71,30197.77
+873,Botas de Cuero,Calzado,S,94,47328.05
+874,Pantalón Cargo,Pantalones,XL,128,20065.2
+875,Pantalón Jogger,Pantalones,XL,81,13938.2
+876,Puffer,Camperas,M,41,57230.46
+877,Campera Inflable,Camperas,L,137,62701.93
+878,Gafas de Sol,Accesorios,L,195,8388.34
+879,Sandalias,Calzado,XL,99,61369.56
+880,Musculosa,Remeras,XXXL,86,12324.58
+881,Cardigan Tejido,Buzos,XL,127,21677.09
+882,Zapatillas Running,Calzado,XL,115,64184.46
+883,Remera Oversize,Remeras,L,151,13571.45
+884,Riñonera,Accesorios,S,155,8722.5
+885,Gafas de Sol,Accesorios,M,135,8910.96
+886,Bufanda,Accesorios,XXL,102,11875.76
+887,Remera Oversize,Remeras,M,1,9715.24
+888,Jean Skinny,Pantalones,M,125,18887.5
+889,Riñonera,Accesorios,L,113,5295.98
+890,Rompeviento,Camperas,L,9,36404.41
+891,Riñonera,Accesorios,XS,59,14962.64
+892,Puffer,Camperas,XS,161,63173.37
+893,Remera Estampada,Remeras,S,52,12673.24
+894,Campera Jean,Camperas,XL,74,65319.95
+895,Remera Básica,Remeras,S,177,7318.74
+896,Top Deportivo,Remeras,XXL,24,12925.68
+897,Top Deportivo,Remeras,L,11,6480.3
+898,Campera Jean,Camperas,M,58,66377.2
+899,Top Deportivo,Remeras,M,134,13418.24
+900,Top Deportivo,Remeras,XS,155,13234.77
+901,Rompeviento,Camperas,S,168,49192.59
+902,Botas de Cuero,Calzado,S,139,78773.89
+903,Rompeviento,Camperas,XS,66,36011.33
+904,Hoodie Oversize,Buzos,XL,192,29187.04
+905,Buzo Frisa,Buzos,XS,159,16003.84
+906,Gorra,Accesorios,S,124,13580.19
+907,Rompeviento,Camperas,M,167,60514.98
+908,Buzo Canguro,Buzos,L,148,28586.08
+909,Jean Mom,Pantalones,S,41,26617.2
+910,Zapatillas Urbanas,Calzado,XXL,41,52592.39
+911,Campera Jean,Camperas,XL,173,44802.2
+912,Top Deportivo,Remeras,XXXL,44,9334.08
+913,Sandalias,Calzado,M,34,58399.43
+914,Riñonera,Accesorios,XS,181,13620.81
+915,Campera de Cuero,Camperas,M,170,53002.25
+916,Campera Inflable,Camperas,L,56,41198.21
+917,Puffer,Camperas,M,68,53514.13
+918,Jean Mom,Pantalones,XL,56,24673.28
+919,Puffer,Camperas,XXL,111,30907.93
+920,Remera Básica,Remeras,M,86,7528.88
+921,Bufanda,Accesorios,XXXL,96,5671.38
+922,Hoodie Oversize,Buzos,XXXL,8,29334.57
+923,Jean Skinny,Pantalones,M,53,27616.75
+924,Campera Inflable,Camperas,XS,111,36411.22
+925,Remera Estampada,Remeras,L,91,9164.41
+926,Jean Mom,Pantalones,L,142,24172.44
+927,Remera Básica,Remeras,XXL,68,9196.84
+928,Botas de Cuero,Calzado,S,41,22162.55
+929,Ojotas,Calzado,XL,107,33789.65
+930,Top Deportivo,Remeras,S,172,13402.02
+931,Zapatillas Urbanas,Calzado,XL,97,34174.22
+932,Riñonera,Accesorios,L,129,4089.65
+933,Gafas de Sol,Accesorios,XL,119,9921.26
+934,Buzo Frisa,Buzos,XL,10,20395.84
+935,Remera Oversize,Remeras,L,122,7972.72
+936,Bufanda,Accesorios,XXXL,118,9408.62
+937,Musculosa,Remeras,M,4,10425.23
+938,Hoodie Oversize,Buzos,L,136,31429.31
+939,Cardigan Tejido,Buzos,XL,101,15214.61
+940,Jean Skinny,Pantalones,XXXL,109,15373.39
+941,Hoodie Oversize,Buzos,XL,26,33458.97
+942,Remera Oversize,Remeras,M,16,9482.24
+943,Zapatillas Running,Calzado,XXL,10,33670.18
+944,Botas de Cuero,Calzado,XL,69,68231.4
+945,Botas de Cuero,Calzado,L,61,46806.04
+946,Campera Jean,Camperas,XXL,88,54737.53
+947,Remera Estampada,Remeras,XL,159,13245.51
+948,Campera Jean,Camperas,XL,97,34604.91
+949,Hoodie Oversize,Buzos,S,109,18092.01
+950,Campera Jean,Camperas,XXL,193,26580.34
+951,Gafas de Sol,Accesorios,M,169,11404.2
+952,Pantalón Jogger,Pantalones,M,144,17159.36
+953,Gorra,Accesorios,M,119,6021.14
+954,Jean Mom,Pantalones,M,91,13216.13
+955,Cinturón,Accesorios,XL,74,5692.76
+956,Gorra,Accesorios,XXL,159,12125.07
+957,Jean Mom,Pantalones,S,172,20026.79
+958,Gafas de Sol,Accesorios,S,145,7305.98
+959,Musculosa,Remeras,XXXL,145,11486.88
+960,Cinturón,Accesorios,S,101,14796.38
+961,Buzo Frisa,Buzos,L,12,28250.21
+962,Pantalón Jogger,Pantalones,XXXL,45,16107.6
+963,Campera Jean,Camperas,XS,8,26138.19
+964,Rompeviento,Camperas,M,1,32311.98
+965,Gorra,Accesorios,M,57,3580.16
+966,Gorra,Accesorios,M,157,9052.39
+967,Campera de Cuero,Camperas,XXXL,18,32145.88
+968,Cinturón,Accesorios,XXXL,16,14719.6
+969,Buzo Canguro,Buzos,L,72,15966.25
+970,Top Deportivo,Remeras,XXXL,191,12198.72
+971,Top Deportivo,Remeras,S,76,11595.34
+972,Top Deportivo,Remeras,L,125,8967.42
+973,Jean Mom,Pantalones,XL,53,25550.1
+974,Remera Estampada,Remeras,L,1,13473.9
+975,Riñonera,Accesorios,S,82,14578.1
+976,Ojotas,Calzado,M,27,30022.67
+977,Puffer,Camperas,XXXL,100,31104.3
+978,Jean Mom,Pantalones,L,131,26126.93
+979,Remera Oversize,Remeras,XL,2,13609.7
+980,Sweater de Lana,Buzos,L,46,25068.41
+981,Zapatillas Running,Calzado,XL,184,49626.04
+982,Campera Jean,Camperas,XL,169,44454.72
+983,Top Deportivo,Remeras,XS,189,10998.08
+984,Jean Skinny,Pantalones,M,9,28436.43
+985,Botas de Cuero,Calzado,XXL,161,70796.32
+986,Gorra,Accesorios,L,92,13358.92
+987,Puffer,Camperas,M,82,25741.26
+988,Campera Jean,Camperas,S,123,58870.34
+989,Zapatillas Urbanas,Calzado,S,21,24050.61
+990,Pantalón Jogger,Pantalones,XL,3,25344.89
+991,Remera Básica,Remeras,XXXL,97,13627.11
+992,Pantalón Cargo,Pantalones,XL,116,26815.59
+993,Pantalón Jogger,Pantalones,M,179,18912.04
+994,Cardigan Tejido,Buzos,M,13,19584.23
+995,Hoodie Oversize,Buzos,XL,108,15223.43
+996,Top Deportivo,Remeras,XL,82,7676.7
+997,Hoodie Oversize,Buzos,XL,53,34823.97
+998,Botas de Cuero,Calzado,L,36,41307.29
+999,Cinturón,Accesorios,XXL,198,5423.33
+1000,Campera de Cuero,Camperas,M,50,42374.46

@@ -1,37 +1,56 @@
 from database.session import get_db
+from sqlalchemy import or_
 from database.models import Producto
 
-def consultar_producto(producto_id):
+def consultar_producto(producto: str | int = None) -> dict | None:
     """
-    Consulta un producto por su ID.
+    Consulta un producto por su nombre o código.
     """
     db = next(get_db())
-    producto = db.query(Producto).get(producto_id)
+
+    if producto is not None and isinstance(producto, str):
+        producto = db.query(Producto).filter(or_(Producto.nombre.like(f"%{producto}%"), Producto.codigo.like(f"%{producto}%"))).first()
+
     if producto:
         return {
             "id": producto.id,
-            "nombre": producto.name,
-            "precio": producto.price,
+            "codigo": producto.codigo,
+            "nombre": producto.nombre,
+            "descripcion": producto.descripcion,
+            "precio": producto.precio,
+            "stock": producto.stock,
         }
+    
     return None
 
 def crear_producto(data):
     """
     Crea un nuevo producto.
     Args:
-        data (dict): Diccionario con 'name' y 'price'.
+        data (dict): Diccionario con 'codigo', 'nombre', 'descripcion', 'precio', 'stock'.
     Returns:
         dict: Producto creado.
     """
+    
     db = next(get_db())
-    producto = Producto(name=data['name'], price=data['price'])
+
+    producto = Producto(
+        codigo=data['codigo'],
+        nombre=data['nombre'],
+        descripcion=data.get('descripcion', ''),
+        precio=data['precio'],
+        stock=data.get('stock', 0)
+    )
     db.add(producto)
     db.commit()
     db.refresh(producto)
     return {
         "id": producto.id,
-        "nombre": producto.name,
-        "precio": producto.price,
+        "codigo": producto.codigo,
+        "nombre": producto.nombre,
+        "descripcion": producto.descripcion,
+        "precio": producto.precio,
+        "stock": producto.stock,
     }
 
 def actualizar_producto(producto_id, data):
@@ -47,15 +66,24 @@ def actualizar_producto(producto_id, data):
     producto = db.query(Producto).get(producto_id)
     if not producto:
         return None
-    if 'name' in data:
-        producto.name = data['name']
-    if 'price' in data:
-        producto.price = data['price']
+    if 'codigo' in data:
+        producto.codigo = data['codigo']
+    if 'nombre' in data:
+        producto.nombre = data['nombre']
+    if 'descripcion' in data:
+        producto.descripcion = data['descripcion']
+    if 'precio' in data:
+        producto.precio = data['precio']
+    if 'stock' in data:
+        producto.stock = data['stock']
     db.commit()
     return {
         "id": producto.id,
-        "nombre": producto.name,
-        "precio": producto.price,
+        "codigo": producto.codigo,
+        "nombre": producto.nombre,
+        "descripcion": producto.descripcion,
+        "precio": producto.precio,
+        "stock": producto.stock,
     }
 
 def eliminar_producto(producto_id):
@@ -85,8 +113,11 @@ def listar_productos():
     return [
         {
             "id": p.id,
-            "nombre": p.name,
-            "precio": p.price,
+            "codigo": p.codigo,
+            "nombre": p.nombre,
+            "descripcion": p.descripcion,
+            "precio": p.precio,
+            "stock": p.stock,
         }
         for p in productos
     ]

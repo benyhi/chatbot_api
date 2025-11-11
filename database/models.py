@@ -17,6 +17,7 @@ class Producto(Base):
     __tablename__ = "productos"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
+    codigo = Column(String, unique=True, nullable=False)
     nombre = Column(String, nullable=False)
     descripcion = Column(Text)
     precio = Column(Integer, nullable=False)

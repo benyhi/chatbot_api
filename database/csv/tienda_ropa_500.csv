@@ -1,0 +1,501 @@
+id,descripcion,cantidad,precio,categoria,color,talle,marca,genero,material
+1,Buzos Slim,29,10090.51,Buzos,Blanco,M,Adidas,Hombre,Algodón
+2,Sweaters Slim,147,15153.99,Sweaters,Verde,L,Fila,Hombre,Cuero
+3,Pantalones Premium,35,8938.05,Pantalones,Azul,XXL,Fila,Unisex,Mezcla
+4,Remeras Deportiva,128,824.29,Remeras,Rojo,L,Puma,Unisex,Mezcla
+5,Camisas Oversize,183,17919.65,Camisas,Rojo,L,Under Armour,Mujer,Lana
+6,Sweaters Premium,12,18670.7,Sweaters,Rojo,M,Reebok,Hombre,Mezcla
+7,Sweaters Oversize,40,4897.45,Sweaters,Amarillo,M,Adidas,Hombre,Cuero
+8,Zapatillas Deportiva,106,11001.17,Zapatillas,Gris,M,Puma,Hombre,Mezcla
+9,Remeras Oversize,60,14622.23,Remeras,Azul,M,Nike,Mujer,Cuero
+10,Remeras Clásica,102,18505.3,Remeras,Gris,XXL,Nike,Hombre,Algodón
+11,Camisas Oversize,38,19100.64,Camisas,Blanco,M,Reebok,Hombre,Mezcla
+12,Remeras Premium,192,3445.96,Remeras,Blanco,XXL,Fila,Hombre,Lana
+13,Camisas Slim,27,14781.52,Camisas,Blanco,M,Fila,Unisex,Lana
+14,Zapatillas Oversize,116,18278.09,Zapatillas,Blanco,M,Puma,Mujer,Cuero
+15,Sweaters Clásica,121,9236.21,Sweaters,Rojo,S,Under Armour,Hombre,Cuero
+16,Zapatillas Slim,179,18488.85,Zapatillas,Amarillo,M,Nike,Hombre,Cuero
+17,Remeras Oversize,66,10054.13,Remeras,Verde,XXL,Adidas,Mujer,Mezcla
+18,Remeras Deportiva,196,15244.99,Remeras,Azul,XL,Puma,Unisex,Algodón
+19,Pantalones Deportiva,2,14417.83,Pantalones,Amarillo,M,Nike,Hombre,Poliéster
+20,Buzos Oversize,77,10818.29,Buzos,Gris,XXL,Reebok,Unisex,Algodón
+21,Camisas Deportiva,180,1344.65,Camisas,Negro,XL,Reebok,Hombre,Lana
+22,Camisas Oversize,17,12583.31,Camisas,Gris,XL,Nike,Hombre,Algodón
+23,Buzos Slim,118,6324.86,Buzos,Blanco,L,Adidas,Hombre,Mezcla
+24,Camisas Deportiva,129,731.66,Camisas,Verde,M,Fila,Unisex,Mezcla
+25,Buzos Deportiva,192,10224.85,Buzos,Negro,S,Reebok,Unisex,Algodón
+26,Zapatillas Premium,2,1605.57,Zapatillas,Amarillo,M,Nike,Hombre,Mezcla
+27,Zapatillas Clásica,39,13219.08,Zapatillas,Rojo,L,Puma,Mujer,Mezcla
+28,Zapatillas Clásica,36,4295.27,Zapatillas,Amarillo,S,Adidas,Hombre,Algodón
+29,Zapatillas Premium,188,18692.68,Zapatillas,Amarillo,XL,Adidas,Mujer,Mezcla
+30,Pantalones Deportiva,154,1410.86,Pantalones,Negro,S,Puma,Hombre,Cuero
+31,Zapatillas Oversize,21,810.0,Zapatillas,Negro,XXL,Adidas,Unisex,Algodón
+32,Buzos Oversize,17,2488.39,Buzos,Gris,L,Nike,Unisex,Algodón
+33,Sweaters Slim,180,10363.53,Sweaters,Amarillo,XXL,Fila,Unisex,Lana
+34,Buzos Premium,161,6402.25,Buzos,Blanco,XXL,Nike,Hombre,Poliéster
+35,Pantalones Deportiva,112,12161.93,Pantalones,Azul,S,Nike,Unisex,Poliéster
+36,Zapatillas Oversize,121,8749.53,Zapatillas,Verde,XXL,Puma,Mujer,Mezcla
+37,Sweaters Oversize,111,11716.5,Sweaters,Gris,XL,Fila,Hombre,Cuero
+38,Buzos Premium,171,7854.94,Buzos,Rojo,L,Nike,Unisex,Cuero
+39,Buzos Slim,113,656.99,Buzos,Negro,L,Puma,Hombre,Poliéster
+40,Remeras Clásica,154,17624.58,Remeras,Verde,L,Fila,Unisex,Lana
+41,Remeras Premium,87,7443.94,Remeras,Rojo,L,Puma,Mujer,Algodón
+42,Sweaters Oversize,29,13494.46,Sweaters,Blanco,S,Under Armour,Mujer,Poliéster
+43,Zapatillas Oversize,124,1598.86,Zapatillas,Gris,XL,Reebok,Unisex,Poliéster
+44,Zapatillas Deportiva,172,586.46,Zapatillas,Amarillo,S,Reebok,Hombre,Mezcla
+45,Sweaters Deportiva,181,10622.56,Sweaters,Rojo,S,Nike,Mujer,Poliéster
+46,Remeras Premium,57,15175.91,Remeras,Amarillo,XL,Adidas,Unisex,Cuero
+47,Zapatillas Clásica,129,1521.73,Zapatillas,Verde,S,Nike,Hombre,Poliéster
+48,Pantalones Oversize,116,11050.63,Pantalones,Rojo,S,Nike,Unisex,Mezcla
+49,Remeras Slim,56,3489.07,Remeras,Rojo,M,Adidas,Mujer,Poliéster
+50,Pantalones Premium,1,7146.82,Pantalones,Negro,XXL,Reebok,Hombre,Cuero
+51,Camisas Premium,61,12510.75,Camisas,Rojo,M,Adidas,Hombre,Algodón
+52,Pantalones Slim,72,12100.8,Pantalones,Verde,XL,Fila,Hombre,Mezcla
+53,Sweaters Deportiva,176,14999.72,Sweaters,Verde,XXL,Puma,Hombre,Poliéster
+54,Remeras Premium,158,16940.54,Remeras,Negro,L,Adidas,Hombre,Cuero
+55,Zapatillas Deportiva,108,3613.56,Zapatillas,Amarillo,XXL,Under Armour,Mujer,Cuero
+56,Remeras Clásica,61,14925.34,Remeras,Azul,XL,Adidas,Hombre,Poliéster
+57,Sweaters Slim,173,13467.62,Sweaters,Gris,S,Fila,Unisex,Mezcla
+58,Sweaters Slim,148,4637.78,Sweaters,Amarillo,S,Under Armour,Unisex,Lana
+59,Sweaters Slim,102,11252.64,Sweaters,Amarillo,XL,Adidas,Unisex,Poliéster
+60,Sweaters Deportiva,171,3046.41,Sweaters,Verde,XXL,Nike,Hombre,Cuero
+61,Zapatillas Clásica,166,8771.77,Zapatillas,Gris,S,Adidas,Unisex,Algodón
+62,Pantalones Premium,128,8341.64,Pantalones,Verde,M,Under Armour,Unisex,Cuero
+63,Zapatillas Clásica,25,8574.7,Zapatillas,Amarillo,XL,Fila,Mujer,Mezcla
+64,Sweaters Slim,9,5873.78,Sweaters,Amarillo,S,Nike,Mujer,Lana
+65,Camisas Oversize,183,5925.58,Camisas,Blanco,M,Fila,Hombre,Algodón
+66,Remeras Clásica,128,3727.7,Remeras,Blanco,XXL,Puma,Mujer,Poliéster
+67,Sweaters Deportiva,26,6723.29,Sweaters,Rojo,S,Under Armour,Hombre,Lana
+68,Remeras Clásica,167,11979.42,Remeras,Rojo,L,Under Armour,Unisex,Mezcla
+69,Zapatillas Premium,198,3600.84,Zapatillas,Negro,L,Puma,Hombre,Algodón
+70,Buzos Clásica,195,2823.59,Buzos,Amarillo,M,Under Armour,Hombre,Algodón
+71,Pantalones Clásica,44,10993.74,Pantalones,Negro,XL,Reebok,Hombre,Mezcla
+72,Pantalones Oversize,145,14933.55,Pantalones,Amarillo,XL,Puma,Mujer,Algodón
+73,Camisas Clásica,74,846.73,Camisas,Negro,L,Adidas,Mujer,Algodón
+74,Zapatillas Clásica,164,19940.12,Zapatillas,Gris,XL,Puma,Unisex,Poliéster
+75,Zapatillas Clásica,132,7719.48,Zapatillas,Gris,XXL,Fila,Hombre,Cuero
+76,Buzos Slim,49,11627.39,Buzos,Azul,M,Puma,Hombre,Lana
+77,Sweaters Premium,106,16563.54,Sweaters,Amarillo,L,Reebok,Mujer,Lana
+78,Buzos Oversize,168,1664.15,Buzos,Rojo,XL,Adidas,Unisex,Lana
+79,Camisas Clásica,48,7152.92,Camisas,Amarillo,XL,Nike,Hombre,Algodón
+80,Buzos Oversize,65,8773.96,Buzos,Verde,M,Reebok,Unisex,Cuero
+81,Zapatillas Premium,157,17635.57,Zapatillas,Rojo,S,Adidas,Hombre,Algodón
+82,Camisas Oversize,88,3863.9,Camisas,Gris,XXL,Adidas,Mujer,Lana
+83,Sweaters Deportiva,130,4693.56,Sweaters,Azul,XXL,Adidas,Hombre,Mezcla
+84,Sweaters Deportiva,115,15555.35,Sweaters,Azul,XL,Adidas,Mujer,Mezcla
+85,Remeras Deportiva,119,10520.03,Remeras,Gris,XXL,Nike,Mujer,Algodón
+86,Camisas Deportiva,188,11484.61,Camisas,Rojo,M,Nike,Unisex,Algodón
+87,Camisas Oversize,55,2110.32,Camisas,Verde,XXL,Fila,Unisex,Algodón
+88,Remeras Slim,108,19536.93,Remeras,Verde,S,Nike,Unisex,Cuero
+89,Zapatillas Clásica,183,17407.82,Zapatillas,Azul,XL,Puma,Unisex,Mezcla
+90,Sweaters Clásica,97,14390.44,Sweaters,Rojo,L,Reebok,Hombre,Poliéster
+91,Camisas Deportiva,66,15035.16,Camisas,Gris,M,Adidas,Hombre,Poliéster
+92,Pantalones Slim,106,15421.62,Pantalones,Blanco,M,Nike,Mujer,Poliéster
+93,Buzos Oversize,137,19683.93,Buzos,Gris,L,Under Armour,Mujer,Algodón
+94,Remeras Deportiva,10,6089.59,Remeras,Verde,S,Reebok,Unisex,Mezcla
+95,Zapatillas Slim,6,5013.48,Zapatillas,Gris,XL,Fila,Mujer,Poliéster
+96,Remeras Oversize,2,10829.65,Remeras,Rojo,XL,Under Armour,Mujer,Cuero
+97,Pantalones Premium,68,523.38,Pantalones,Gris,S,Nike,Mujer,Poliéster
+98,Sweaters Slim,154,11104.02,Sweaters,Negro,S,Fila,Hombre,Algodón
+99,Camisas Clásica,57,5733.38,Camisas,Rojo,M,Nike,Mujer,Cuero
+100,Sweaters Clásica,131,16799.98,Sweaters,Gris,L,Reebok,Mujer,Poliéster
+101,Pantalones Oversize,157,3916.03,Pantalones,Amarillo,XL,Fila,Hombre,Cuero
+102,Pantalones Slim,138,18300.96,Pantalones,Rojo,L,Fila,Hombre,Poliéster
+103,Zapatillas Deportiva,123,10048.06,Zapatillas,Blanco,M,Adidas,Mujer,Poliéster
+104,Remeras Deportiva,68,16236.17,Remeras,Amarillo,XXL,Fila,Hombre,Mezcla
+105,Zapatillas Slim,67,15590.85,Zapatillas,Blanco,L,Fila,Unisex,Cuero
+106,Camisas Oversize,115,14360.64,Camisas,Negro,M,Reebok,Unisex,Poliéster
+107,Remeras Deportiva,140,7315.59,Remeras,Negro,XL,Adidas,Unisex,Algodón
+108,Zapatillas Oversize,158,12461.4,Zapatillas,Azul,M,Reebok,Mujer,Cuero
+109,Buzos Premium,101,15211.21,Buzos,Verde,XL,Reebok,Mujer,Mezcla
+110,Sweaters Slim,129,8362.23,Sweaters,Gris,L,Nike,Unisex,Lana
+111,Sweaters Premium,139,4531.42,Sweaters,Gris,XXL,Under Armour,Unisex,Lana
+112,Sweaters Premium,156,1998.92,Sweaters,Amarillo,XL,Nike,Hombre,Cuero
+113,Remeras Clásica,3,6236.18,Remeras,Rojo,XL,Adidas,Unisex,Algodón
+114,Sweaters Oversize,55,831.32,Sweaters,Blanco,XXL,Fila,Mujer,Cuero
+115,Camisas Deportiva,3,1629.94,Camisas,Blanco,L,Fila,Hombre,Poliéster
+116,Pantalones Deportiva,200,13869.67,Pantalones,Rojo,XXL,Puma,Hombre,Algodón
+117,Pantalones Deportiva,195,8573.08,Pantalones,Negro,XXL,Puma,Hombre,Cuero
+118,Camisas Clásica,27,610.31,Camisas,Azul,XXL,Puma,Mujer,Mezcla
+119,Camisas Clásica,107,3506.83,Camisas,Negro,S,Fila,Unisex,Mezcla
+120,Buzos Premium,4,2441.16,Buzos,Azul,L,Adidas,Hombre,Poliéster
+121,Buzos Premium,34,18261.16,Buzos,Verde,XXL,Reebok,Mujer,Algodón
+122,Pantalones Deportiva,38,6658.72,Pantalones,Blanco,L,Fila,Unisex,Lana
+123,Pantalones Oversize,163,12934.11,Pantalones,Rojo,S,Nike,Hombre,Cuero
+124,Sweaters Oversize,128,10774.62,Sweaters,Blanco,XXL,Puma,Mujer,Poliéster
+125,Buzos Oversize,178,5644.08,Buzos,Azul,XXL,Fila,Hombre,Algodón
+126,Buzos Premium,142,1825.22,Buzos,Verde,XXL,Adidas,Mujer,Cuero
+127,Sweaters Oversize,17,19365.71,Sweaters,Rojo,M,Puma,Hombre,Poliéster
+128,Camisas Clásica,200,707.65,Camisas,Gris,XL,Fila,Unisex,Cuero
+129,Remeras Oversize,140,6025.66,Remeras,Azul,XL,Puma,Mujer,Cuero
+130,Buzos Oversize,83,16380.86,Buzos,Amarillo,M,Fila,Hombre,Lana
+131,Zapatillas Deportiva,55,1338.54,Zapatillas,Gris,S,Reebok,Unisex,Lana
+132,Buzos Deportiva,100,12487.04,Buzos,Gris,S,Adidas,Hombre,Lana
+133,Camisas Oversize,10,2585.85,Camisas,Blanco,XL,Under Armour,Unisex,Algodón
+134,Buzos Clásica,31,10938.1,Buzos,Rojo,S,Under Armour,Unisex,Lana
+135,Zapatillas Slim,157,6109.09,Zapatillas,Azul,XXL,Nike,Hombre,Poliéster
+136,Sweaters Premium,72,10888.7,Sweaters,Azul,XL,Under Armour,Mujer,Algodón
+137,Pantalones Deportiva,161,18014.96,Pantalones,Azul,S,Under Armour,Mujer,Algodón
+138,Zapatillas Slim,99,17342.16,Zapatillas,Negro,XL,Adidas,Unisex,Algodón
+139,Zapatillas Deportiva,14,12213.23,Zapatillas,Blanco,L,Fila,Unisex,Algodón
+140,Buzos Premium,22,1080.97,Buzos,Azul,M,Adidas,Hombre,Cuero
+141,Buzos Premium,174,1589.08,Buzos,Amarillo,XXL,Puma,Hombre,Poliéster
+142,Buzos Premium,41,14632.48,Buzos,Blanco,XL,Nike,Unisex,Cuero
+143,Zapatillas Slim,152,16631.97,Zapatillas,Verde,S,Reebok,Mujer,Cuero
+144,Remeras Premium,14,16987.95,Remeras,Gris,S,Puma,Unisex,Poliéster
+145,Remeras Premium,163,19037.99,Remeras,Rojo,M,Reebok,Unisex,Algodón
+146,Zapatillas Clásica,162,6877.23,Zapatillas,Amarillo,L,Reebok,Hombre,Poliéster
+147,Buzos Slim,168,15881.55,Buzos,Blanco,S,Fila,Unisex,Cuero
+148,Zapatillas Clásica,200,791.34,Zapatillas,Negro,L,Puma,Hombre,Poliéster
+149,Camisas Oversize,184,8017.54,Camisas,Gris,L,Adidas,Unisex,Lana
+150,Sweaters Oversize,115,2345.1,Sweaters,Blanco,XXL,Nike,Hombre,Cuero
+151,Camisas Premium,142,15960.65,Camisas,Amarillo,XXL,Adidas,Hombre,Algodón
+152,Buzos Oversize,139,1637.18,Buzos,Blanco,S,Fila,Hombre,Cuero
+153,Zapatillas Deportiva,35,5862.17,Zapatillas,Gris,L,Puma,Hombre,Lana
+154,Pantalones Slim,88,17613.05,Pantalones,Amarillo,M,Puma,Unisex,Cuero
+155,Pantalones Clásica,97,18784.27,Pantalones,Gris,L,Reebok,Unisex,Poliéster
+156,Sweaters Premium,139,642.77,Sweaters,Rojo,M,Fila,Hombre,Poliéster
+157,Buzos Clásica,64,11260.13,Buzos,Gris,XL,Reebok,Hombre,Cuero
+158,Pantalones Oversize,172,19000.0,Pantalones,Verde,XXL,Reebok,Hombre,Algodón
+159,Sweaters Oversize,17,1274.08,Sweaters,Negro,XL,Puma,Mujer,Poliéster
+160,Zapatillas Oversize,13,5102.85,Zapatillas,Negro,M,Under Armour,Unisex,Mezcla
+161,Zapatillas Slim,188,12071.55,Zapatillas,Amarillo,XXL,Reebok,Hombre,Algodón
+162,Camisas Slim,26,3301.51,Camisas,Amarillo,XL,Nike,Unisex,Lana
+163,Pantalones Slim,67,4409.99,Pantalones,Amarillo,XXL,Puma,Mujer,Lana
+164,Buzos Clásica,8,9681.02,Buzos,Negro,L,Adidas,Hombre,Poliéster
+165,Remeras Premium,187,16411.36,Remeras,Rojo,XL,Reebok,Hombre,Algodón
+166,Pantalones Slim,121,19457.17,Pantalones,Gris,XL,Nike,Hombre,Algodón
+167,Zapatillas Clásica,167,19629.0,Zapatillas,Rojo,S,Adidas,Hombre,Algodón
+168,Pantalones Slim,129,5164.4,Pantalones,Negro,M,Under Armour,Unisex,Poliéster
+169,Buzos Oversize,91,3787.97,Buzos,Verde,M,Adidas,Hombre,Cuero
+170,Remeras Slim,172,13391.56,Remeras,Azul,S,Under Armour,Hombre,Algodón
+171,Sweaters Clásica,137,4940.87,Sweaters,Amarillo,M,Nike,Unisex,Mezcla
+172,Remeras Oversize,154,10935.59,Remeras,Azul,S,Fila,Hombre,Algodón
+173,Buzos Oversize,65,8045.02,Buzos,Rojo,XXL,Puma,Mujer,Poliéster
+174,Zapatillas Premium,172,8422.25,Zapatillas,Blanco,XL,Nike,Mujer,Algodón
+175,Sweaters Oversize,191,2613.23,Sweaters,Blanco,S,Reebok,Unisex,Cuero
+176,Buzos Deportiva,8,11278.81,Buzos,Blanco,L,Fila,Hombre,Poliéster
+177,Zapatillas Premium,84,18751.85,Zapatillas,Amarillo,L,Puma,Hombre,Lana
+178,Sweaters Slim,12,14839.14,Sweaters,Blanco,S,Puma,Mujer,Poliéster
+179,Camisas Deportiva,127,10058.84,Camisas,Gris,S,Nike,Mujer,Mezcla
+180,Remeras Premium,117,8338.85,Remeras,Gris,S,Adidas,Hombre,Lana
+181,Remeras Clásica,71,5246.69,Remeras,Rojo,XXL,Adidas,Unisex,Algodón
+182,Pantalones Deportiva,85,9522.86,Pantalones,Blanco,S,Fila,Mujer,Lana
+183,Sweaters Slim,7,19314.13,Sweaters,Negro,XXL,Nike,Mujer,Cuero
+184,Remeras Premium,17,17449.05,Remeras,Blanco,S,Nike,Mujer,Algodón
+185,Pantalones Clásica,133,13357.61,Pantalones,Gris,XL,Nike,Hombre,Algodón
+186,Sweaters Slim,22,15330.7,Sweaters,Verde,XXL,Nike,Unisex,Lana
+187,Remeras Oversize,34,10699.35,Remeras,Amarillo,XXL,Puma,Unisex,Lana
+188,Zapatillas Clásica,89,4579.06,Zapatillas,Azul,XXL,Adidas,Unisex,Cuero
+189,Buzos Clásica,167,10907.59,Buzos,Verde,XXL,Reebok,Unisex,Poliéster
+190,Sweaters Premium,60,11342.4,Sweaters,Verde,M,Puma,Hombre,Algodón
+191,Zapatillas Deportiva,192,3443.11,Zapatillas,Verde,M,Nike,Unisex,Lana
+192,Pantalones Slim,12,18299.84,Pantalones,Blanco,L,Fila,Unisex,Lana
+193,Sweaters Slim,34,14733.84,Sweaters,Negro,S,Reebok,Unisex,Algodón
+194,Remeras Deportiva,76,10754.97,Remeras,Rojo,XL,Fila,Hombre,Poliéster
+195,Zapatillas Premium,91,1244.54,Zapatillas,Gris,S,Reebok,Hombre,Algodón
+196,Pantalones Premium,83,10306.39,Pantalones,Blanco,S,Adidas,Hombre,Algodón
+197,Buzos Clásica,135,8552.38,Buzos,Verde,XL,Puma,Mujer,Mezcla
+198,Buzos Oversize,151,4824.24,Buzos,Rojo,L,Adidas,Mujer,Cuero
+199,Buzos Oversize,147,1090.16,Buzos,Blanco,L,Fila,Unisex,Mezcla
+200,Remeras Slim,46,1394.04,Remeras,Negro,XXL,Puma,Hombre,Mezcla
+201,Buzos Oversize,74,14076.5,Buzos,Verde,XXL,Under Armour,Hombre,Poliéster
+202,Remeras Deportiva,72,12004.28,Remeras,Gris,XL,Adidas,Mujer,Mezcla
+203,Sweaters Slim,25,10091.02,Sweaters,Blanco,XXL,Adidas,Mujer,Lana
+204,Zapatillas Clásica,57,8662.97,Zapatillas,Negro,S,Reebok,Hombre,Algodón
+205,Sweaters Deportiva,140,7156.83,Sweaters,Gris,XL,Puma,Hombre,Mezcla
+206,Zapatillas Deportiva,31,17837.01,Zapatillas,Verde,XL,Fila,Hombre,Mezcla
+207,Remeras Clásica,132,18872.81,Remeras,Blanco,S,Fila,Mujer,Poliéster
+208,Sweaters Clásica,125,16989.02,Sweaters,Rojo,XXL,Adidas,Unisex,Lana
+209,Remeras Clásica,35,17889.73,Remeras,Azul,S,Fila,Mujer,Lana
+210,Zapatillas Premium,89,4317.22,Zapatillas,Gris,XXL,Fila,Mujer,Lana
+211,Pantalones Deportiva,82,2953.27,Pantalones,Rojo,XL,Adidas,Hombre,Poliéster
+212,Camisas Premium,94,12546.74,Camisas,Amarillo,XXL,Reebok,Unisex,Cuero
+213,Pantalones Premium,124,17661.27,Pantalones,Azul,XL,Puma,Unisex,Cuero
+214,Zapatillas Slim,132,11156.33,Zapatillas,Gris,S,Puma,Hombre,Lana
+215,Camisas Clásica,101,14228.84,Camisas,Azul,XXL,Nike,Mujer,Mezcla
+216,Camisas Slim,125,10425.59,Camisas,Gris,L,Adidas,Unisex,Cuero
+217,Sweaters Deportiva,116,5776.1,Sweaters,Azul,M,Reebok,Hombre,Lana
+218,Pantalones Deportiva,48,5673.33,Pantalones,Rojo,XL,Adidas,Hombre,Cuero
+219,Camisas Clásica,136,9170.48,Camisas,Negro,S,Puma,Hombre,Lana
+220,Pantalones Oversize,130,4843.12,Pantalones,Negro,S,Puma,Unisex,Algodón
+221,Remeras Oversize,105,10238.2,Remeras,Rojo,XL,Fila,Unisex,Poliéster
+222,Camisas Slim,57,19052.4,Camisas,Blanco,XL,Nike,Mujer,Lana
+223,Pantalones Premium,169,9132.61,Pantalones,Azul,XXL,Nike,Hombre,Poliéster
+224,Sweaters Deportiva,23,15563.29,Sweaters,Blanco,XL,Adidas,Mujer,Poliéster
+225,Remeras Clásica,92,7806.55,Remeras,Amarillo,L,Reebok,Unisex,Mezcla
+226,Pantalones Slim,118,7672.48,Pantalones,Amarillo,S,Under Armour,Hombre,Lana
+227,Camisas Premium,73,1358.57,Camisas,Rojo,XL,Nike,Mujer,Algodón
+228,Camisas Deportiva,44,4720.67,Camisas,Gris,L,Nike,Mujer,Mezcla
+229,Buzos Oversize,177,12241.88,Buzos,Azul,XXL,Adidas,Mujer,Mezcla
+230,Pantalones Slim,100,3800.81,Pantalones,Azul,S,Adidas,Hombre,Cuero
+231,Buzos Premium,151,1240.84,Buzos,Rojo,S,Nike,Hombre,Poliéster
+232,Zapatillas Oversize,36,15839.62,Zapatillas,Negro,XXL,Nike,Mujer,Lana
+233,Remeras Deportiva,57,797.88,Remeras,Verde,M,Reebok,Unisex,Algodón
+234,Pantalones Slim,185,13367.69,Pantalones,Blanco,XXL,Nike,Hombre,Cuero
+235,Pantalones Oversize,26,3039.86,Pantalones,Azul,XXL,Puma,Hombre,Cuero
+236,Remeras Premium,116,14934.35,Remeras,Amarillo,XL,Fila,Mujer,Mezcla
+237,Remeras Slim,181,3861.98,Remeras,Negro,XXL,Nike,Mujer,Lana
+238,Sweaters Clásica,141,15903.88,Sweaters,Rojo,M,Nike,Hombre,Algodón
+239,Remeras Deportiva,77,8578.11,Remeras,Negro,M,Fila,Hombre,Lana
+240,Buzos Oversize,195,19808.93,Buzos,Gris,M,Puma,Hombre,Algodón
+241,Buzos Slim,141,1544.47,Buzos,Rojo,S,Fila,Hombre,Mezcla
+242,Zapatillas Oversize,121,2176.64,Zapatillas,Verde,S,Adidas,Hombre,Lana
+243,Camisas Deportiva,77,16739.33,Camisas,Azul,M,Puma,Mujer,Mezcla
+244,Camisas Slim,199,1044.86,Camisas,Azul,XXL,Fila,Hombre,Mezcla
+245,Camisas Premium,31,18466.3,Camisas,Verde,L,Reebok,Unisex,Cuero
+246,Remeras Oversize,118,8302.54,Remeras,Amarillo,S,Fila,Unisex,Mezcla
+247,Zapatillas Deportiva,170,9145.32,Zapatillas,Rojo,XXL,Fila,Unisex,Poliéster
+248,Remeras Oversize,29,19264.83,Remeras,Verde,M,Adidas,Unisex,Lana
+249,Sweaters Deportiva,62,2858.28,Sweaters,Gris,M,Fila,Mujer,Lana
+250,Camisas Deportiva,89,5819.78,Camisas,Rojo,XL,Under Armour,Hombre,Algodón
+251,Buzos Premium,98,3259.53,Buzos,Verde,L,Fila,Mujer,Mezcla
+252,Pantalones Oversize,119,13604.57,Pantalones,Azul,XL,Fila,Unisex,Poliéster
+253,Camisas Slim,29,1486.67,Camisas,Gris,XL,Puma,Hombre,Lana
+254,Zapatillas Clásica,171,8597.77,Zapatillas,Azul,XL,Reebok,Unisex,Mezcla
+255,Buzos Slim,148,19704.33,Buzos,Verde,M,Fila,Mujer,Cuero
+256,Pantalones Slim,41,7000.64,Pantalones,Azul,S,Adidas,Unisex,Algodón
+257,Buzos Deportiva,143,14958.29,Buzos,Rojo,XL,Reebok,Unisex,Cuero
+258,Camisas Deportiva,53,9920.86,Camisas,Amarillo,XXL,Reebok,Mujer,Lana
+259,Remeras Deportiva,100,18445.17,Remeras,Azul,S,Adidas,Mujer,Mezcla
+260,Camisas Premium,26,17036.62,Camisas,Negro,XXL,Adidas,Hombre,Algodón
+261,Camisas Clásica,27,7630.34,Camisas,Blanco,L,Reebok,Hombre,Lana
+262,Camisas Slim,54,16885.12,Camisas,Blanco,L,Fila,Hombre,Cuero
+263,Buzos Premium,141,10119.31,Buzos,Verde,L,Fila,Hombre,Lana
+264,Zapatillas Deportiva,84,19239.35,Zapatillas,Gris,XXL,Nike,Hombre,Cuero
+265,Pantalones Deportiva,153,9112.03,Pantalones,Rojo,M,Nike,Mujer,Lana
+266,Camisas Clásica,191,15487.95,Camisas,Verde,S,Adidas,Mujer,Algodón
+267,Buzos Slim,181,11119.82,Buzos,Gris,M,Nike,Hombre,Lana
+268,Sweaters Slim,130,4922.35,Sweaters,Negro,XL,Fila,Unisex,Cuero
+269,Pantalones Premium,175,7109.36,Pantalones,Negro,XL,Adidas,Mujer,Poliéster
+270,Zapatillas Deportiva,71,1230.85,Zapatillas,Rojo,M,Nike,Mujer,Poliéster
+271,Zapatillas Premium,25,19427.2,Zapatillas,Blanco,L,Adidas,Hombre,Algodón
+272,Remeras Deportiva,64,12548.49,Remeras,Verde,XXL,Under Armour,Unisex,Cuero
+273,Buzos Premium,58,7340.28,Buzos,Verde,XXL,Fila,Mujer,Mezcla
+274,Buzos Slim,117,14030.09,Buzos,Rojo,XL,Nike,Hombre,Lana
+275,Pantalones Clásica,141,2902.05,Pantalones,Rojo,XXL,Fila,Unisex,Lana
+276,Remeras Clásica,47,17637.68,Remeras,Blanco,XL,Under Armour,Mujer,Cuero
+277,Remeras Deportiva,150,17993.9,Remeras,Amarillo,M,Fila,Hombre,Lana
+278,Buzos Clásica,103,14448.44,Buzos,Azul,M,Adidas,Mujer,Algodón
+279,Pantalones Clásica,68,14830.23,Pantalones,Negro,XXL,Reebok,Mujer,Algodón
+280,Pantalones Clásica,95,11725.61,Pantalones,Amarillo,L,Fila,Hombre,Algodón
+281,Buzos Clásica,121,8942.44,Buzos,Gris,S,Under Armour,Unisex,Poliéster
+282,Camisas Premium,57,4078.43,Camisas,Gris,XL,Fila,Mujer,Cuero
+283,Remeras Oversize,100,10814.17,Remeras,Verde,XL,Adidas,Mujer,Lana
+284,Remeras Clásica,22,12229.08,Remeras,Gris,XXL,Adidas,Mujer,Cuero
+285,Buzos Oversize,83,16660.95,Buzos,Azul,S,Adidas,Hombre,Lana
+286,Buzos Oversize,140,10065.85,Buzos,Rojo,L,Adidas,Unisex,Cuero
+287,Buzos Deportiva,169,17592.74,Buzos,Gris,XXL,Fila,Hombre,Mezcla
+288,Sweaters Premium,82,13017.46,Sweaters,Blanco,XXL,Nike,Unisex,Cuero
+289,Sweaters Premium,53,13913.5,Sweaters,Azul,L,Fila,Unisex,Algodón
+290,Sweaters Premium,11,5301.13,Sweaters,Rojo,XXL,Under Armour,Unisex,Mezcla
+291,Camisas Slim,88,12489.85,Camisas,Amarillo,M,Under Armour,Mujer,Cuero
+292,Camisas Premium,107,11352.78,Camisas,Azul,M,Fila,Mujer,Mezcla
+293,Remeras Clásica,92,14008.16,Remeras,Rojo,L,Nike,Hombre,Poliéster
+294,Buzos Premium,62,9641.25,Buzos,Blanco,S,Nike,Unisex,Lana
+295,Remeras Premium,120,19657.54,Remeras,Blanco,L,Nike,Hombre,Cuero
+296,Zapatillas Clásica,101,7060.02,Zapatillas,Rojo,M,Nike,Hombre,Algodón
+297,Buzos Clásica,90,3180.55,Buzos,Negro,S,Puma,Mujer,Lana
+298,Camisas Slim,113,13097.69,Camisas,Verde,XL,Puma,Unisex,Lana
+299,Camisas Slim,173,4763.37,Camisas,Gris,XXL,Reebok,Mujer,Lana
+300,Zapatillas Slim,198,7565.17,Zapatillas,Gris,M,Fila,Unisex,Algodón
+301,Buzos Slim,31,3443.07,Buzos,Verde,L,Nike,Unisex,Algodón
+302,Remeras Oversize,101,7542.4,Remeras,Rojo,S,Adidas,Unisex,Algodón
+303,Sweaters Slim,141,10177.94,Sweaters,Negro,L,Puma,Mujer,Algodón
+304,Sweaters Slim,154,1975.38,Sweaters,Blanco,S,Reebok,Hombre,Mezcla
+305,Remeras Slim,19,17711.55,Remeras,Gris,M,Under Armour,Unisex,Cuero
+306,Zapatillas Premium,196,5101.85,Zapatillas,Amarillo,XXL,Nike,Mujer,Mezcla
+307,Sweaters Oversize,132,11758.37,Sweaters,Amarillo,M,Under Armour,Unisex,Poliéster
+308,Pantalones Slim,40,18111.5,Pantalones,Verde,S,Nike,Mujer,Cuero
+309,Buzos Premium,31,3604.53,Buzos,Amarillo,XXL,Under Armour,Hombre,Poliéster
+310,Camisas Clásica,57,3822.66,Camisas,Azul,S,Adidas,Mujer,Mezcla
+311,Remeras Clásica,58,13994.38,Remeras,Blanco,XXL,Nike,Mujer,Lana
+312,Pantalones Slim,97,10140.72,Pantalones,Amarillo,S,Under Armour,Mujer,Lana
+313,Pantalones Oversize,42,8636.32,Pantalones,Negro,M,Reebok,Unisex,Lana
+314,Zapatillas Clásica,120,15987.43,Zapatillas,Blanco,L,Nike,Hombre,Algodón
+315,Camisas Oversize,16,1020.23,Camisas,Blanco,M,Under Armour,Hombre,Cuero
+316,Pantalones Premium,183,835.45,Pantalones,Azul,S,Fila,Hombre,Poliéster
+317,Remeras Oversize,10,7088.03,Remeras,Amarillo,L,Fila,Unisex,Poliéster
+318,Camisas Slim,176,4497.99,Camisas,Negro,S,Fila,Mujer,Lana
+319,Sweaters Slim,145,17411.16,Sweaters,Rojo,XXL,Nike,Unisex,Poliéster
+320,Sweaters Clásica,177,14280.85,Sweaters,Rojo,XL,Fila,Hombre,Algodón
+321,Zapatillas Oversize,42,8406.23,Zapatillas,Negro,M,Fila,Mujer,Algodón
+322,Buzos Premium,175,6324.61,Buzos,Gris,XXL,Puma,Mujer,Cuero
+323,Zapatillas Oversize,113,6991.5,Zapatillas,Rojo,L,Nike,Unisex,Cuero
+324,Buzos Premium,5,7895.02,Buzos,Blanco,S,Adidas,Unisex,Poliéster
+325,Pantalones Slim,125,19540.94,Pantalones,Gris,S,Fila,Hombre,Poliéster
+326,Sweaters Deportiva,32,6387.22,Sweaters,Blanco,L,Adidas,Hombre,Mezcla
+327,Remeras Deportiva,64,16225.28,Remeras,Verde,L,Reebok,Unisex,Algodón
+328,Camisas Slim,25,16705.75,Camisas,Blanco,XL,Puma,Mujer,Cuero
+329,Pantalones Slim,81,14546.95,Pantalones,Azul,XXL,Under Armour,Unisex,Algodón
+330,Camisas Clásica,64,1112.36,Camisas,Rojo,M,Puma,Mujer,Mezcla
+331,Zapatillas Deportiva,130,15405.88,Zapatillas,Amarillo,XL,Puma,Hombre,Poliéster
+332,Zapatillas Premium,161,19895.99,Zapatillas,Blanco,XXL,Puma,Mujer,Cuero
+333,Pantalones Clásica,65,15291.04,Pantalones,Negro,S,Reebok,Hombre,Poliéster
+334,Pantalones Deportiva,169,7501.05,Pantalones,Negro,S,Fila,Unisex,Algodón
+335,Remeras Slim,111,4959.05,Remeras,Gris,M,Puma,Hombre,Mezcla
+336,Buzos Clásica,100,6982.36,Buzos,Blanco,S,Fila,Mujer,Mezcla
+337,Pantalones Deportiva,2,7021.43,Pantalones,Blanco,M,Under Armour,Unisex,Cuero
+338,Sweaters Clásica,170,5683.87,Sweaters,Blanco,L,Fila,Hombre,Lana
+339,Pantalones Clásica,64,11249.29,Pantalones,Gris,S,Reebok,Hombre,Algodón
+340,Sweaters Deportiva,144,2626.08,Sweaters,Amarillo,L,Under Armour,Hombre,Cuero
+341,Camisas Oversize,120,14265.33,Camisas,Rojo,XL,Adidas,Unisex,Lana
+342,Sweaters Slim,106,2113.95,Sweaters,Negro,L,Reebok,Hombre,Algodón
+343,Remeras Clásica,68,10544.95,Remeras,Blanco,XXL,Puma,Hombre,Poliéster
+344,Sweaters Oversize,92,1291.62,Sweaters,Rojo,S,Adidas,Hombre,Poliéster
+345,Remeras Oversize,124,14452.47,Remeras,Amarillo,M,Under Armour,Mujer,Mezcla
+346,Sweaters Deportiva,56,19902.25,Sweaters,Rojo,M,Adidas,Mujer,Lana
+347,Buzos Oversize,24,13147.45,Buzos,Blanco,XXL,Adidas,Unisex,Mezcla
+348,Pantalones Premium,106,16457.31,Pantalones,Gris,XXL,Nike,Hombre,Lana
+349,Pantalones Premium,183,1524.33,Pantalones,Negro,M,Adidas,Unisex,Lana
+350,Buzos Premium,57,13798.0,Buzos,Azul,XXL,Puma,Unisex,Algodón
+351,Camisas Slim,134,16912.24,Camisas,Negro,XXL,Under Armour,Hombre,Lana
+352,Camisas Deportiva,142,9172.53,Camisas,Verde,L,Nike,Hombre,Mezcla
+353,Zapatillas Premium,151,1096.03,Zapatillas,Amarillo,XL,Puma,Hombre,Mezcla
+354,Sweaters Deportiva,19,17064.57,Sweaters,Rojo,XXL,Reebok,Mujer,Mezcla
+355,Remeras Slim,154,1007.5,Remeras,Negro,XXL,Under Armour,Hombre,Mezcla
+356,Remeras Clásica,114,5915.27,Remeras,Amarillo,S,Nike,Hombre,Poliéster
+357,Sweaters Deportiva,110,4630.57,Sweaters,Blanco,M,Adidas,Hombre,Poliéster
+358,Buzos Premium,123,19955.86,Buzos,Azul,XXL,Fila,Unisex,Lana
+359,Zapatillas Oversize,166,17815.54,Zapatillas,Azul,XL,Puma,Unisex,Cuero
+360,Camisas Slim,145,1951.39,Camisas,Azul,XXL,Puma,Unisex,Poliéster
+361,Sweaters Premium,117,14630.45,Sweaters,Verde,L,Nike,Unisex,Mezcla
+362,Sweaters Oversize,168,6798.9,Sweaters,Rojo,M,Reebok,Unisex,Lana
+363,Camisas Slim,185,11566.7,Camisas,Rojo,M,Nike,Unisex,Cuero
+364,Camisas Slim,144,11491.6,Camisas,Verde,L,Reebok,Hombre,Algodón
+365,Pantalones Slim,168,6350.54,Pantalones,Azul,L,Puma,Unisex,Lana
+366,Remeras Deportiva,37,4755.43,Remeras,Amarillo,XXL,Puma,Unisex,Cuero
+367,Zapatillas Slim,88,2737.1,Zapatillas,Verde,XL,Puma,Mujer,Algodón
+368,Sweaters Slim,22,3475.08,Sweaters,Negro,S,Nike,Mujer,Lana
+369,Remeras Slim,36,10596.36,Remeras,Blanco,L,Puma,Hombre,Lana
+370,Sweaters Premium,160,11639.93,Sweaters,Verde,S,Nike,Hombre,Mezcla
+371,Zapatillas Clásica,10,8557.35,Zapatillas,Rojo,S,Fila,Mujer,Cuero
+372,Zapatillas Deportiva,133,9450.78,Zapatillas,Rojo,XXL,Nike,Unisex,Mezcla
+373,Sweaters Premium,83,17623.41,Sweaters,Negro,XXL,Under Armour,Unisex,Algodón
+374,Zapatillas Deportiva,78,12782.16,Zapatillas,Verde,XL,Under Armour,Mujer,Cuero
+375,Pantalones Slim,125,3659.7,Pantalones,Rojo,XXL,Nike,Mujer,Algodón
+376,Zapatillas Oversize,5,10280.73,Zapatillas,Negro,S,Nike,Unisex,Algodón
+377,Camisas Oversize,53,7327.24,Camisas,Blanco,S,Nike,Hombre,Cuero
+378,Camisas Premium,37,15448.45,Camisas,Negro,XXL,Reebok,Mujer,Algodón
+379,Sweaters Oversize,138,8426.78,Sweaters,Blanco,M,Puma,Unisex,Mezcla
+380,Zapatillas Slim,5,1798.91,Zapatillas,Gris,S,Adidas,Mujer,Algodón
+381,Sweaters Oversize,184,19426.56,Sweaters,Rojo,S,Reebok,Hombre,Poliéster
+382,Camisas Deportiva,96,6056.33,Camisas,Blanco,M,Fila,Hombre,Poliéster
+383,Sweaters Clásica,90,2158.95,Sweaters,Blanco,XL,Reebok,Unisex,Lana
+384,Remeras Oversize,54,16154.16,Remeras,Amarillo,M,Reebok,Mujer,Cuero
+385,Camisas Deportiva,123,942.64,Camisas,Amarillo,XL,Under Armour,Mujer,Poliéster
+386,Buzos Slim,29,19391.13,Buzos,Rojo,XL,Nike,Unisex,Cuero
+387,Camisas Clásica,137,18579.22,Camisas,Negro,M,Puma,Mujer,Cuero
+388,Zapatillas Slim,63,6932.54,Zapatillas,Amarillo,XL,Fila,Hombre,Algodón
+389,Zapatillas Clásica,120,15857.26,Zapatillas,Verde,XL,Fila,Mujer,Cuero
+390,Buzos Oversize,43,3402.34,Buzos,Azul,XXL,Adidas,Hombre,Algodón
+391,Remeras Slim,128,11470.08,Remeras,Rojo,S,Nike,Hombre,Algodón
+392,Remeras Clásica,122,6866.93,Remeras,Amarillo,XL,Adidas,Mujer,Mezcla
+393,Pantalones Clásica,74,6984.17,Pantalones,Blanco,XXL,Reebok,Hombre,Mezcla
+394,Remeras Deportiva,193,4037.44,Remeras,Azul,S,Adidas,Mujer,Cuero
+395,Sweaters Deportiva,166,4956.68,Sweaters,Amarillo,M,Adidas,Hombre,Poliéster
+396,Camisas Clásica,36,14381.44,Camisas,Gris,M,Puma,Unisex,Poliéster
+397,Zapatillas Deportiva,140,7480.82,Zapatillas,Rojo,M,Puma,Unisex,Mezcla
+398,Pantalones Premium,132,10502.86,Pantalones,Blanco,XL,Puma,Unisex,Cuero
+399,Pantalones Slim,184,8783.19,Pantalones,Azul,S,Reebok,Unisex,Algodón
+400,Camisas Slim,133,1077.74,Camisas,Gris,S,Adidas,Unisex,Poliéster
+401,Sweaters Clásica,41,9911.78,Sweaters,Amarillo,XXL,Under Armour,Unisex,Lana
+402,Zapatillas Deportiva,78,6344.4,Zapatillas,Amarillo,M,Fila,Unisex,Algodón
+403,Zapatillas Premium,11,15160.43,Zapatillas,Negro,XXL,Puma,Mujer,Mezcla
+404,Buzos Slim,49,7698.33,Buzos,Negro,XXL,Nike,Hombre,Algodón
+405,Sweaters Clásica,182,15419.12,Sweaters,Verde,M,Nike,Unisex,Lana
+406,Zapatillas Deportiva,14,12412.3,Zapatillas,Amarillo,L,Puma,Mujer,Lana
+407,Buzos Slim,50,2181.43,Buzos,Negro,M,Nike,Mujer,Algodón
+408,Camisas Slim,104,11238.01,Camisas,Amarillo,M,Nike,Hombre,Cuero
+409,Buzos Slim,197,3154.79,Buzos,Verde,XL,Fila,Hombre,Lana
+410,Camisas Oversize,4,12660.01,Camisas,Azul,M,Under Armour,Mujer,Cuero
+411,Sweaters Clásica,152,9959.09,Sweaters,Amarillo,M,Fila,Mujer,Poliéster
+412,Zapatillas Oversize,151,19372.82,Zapatillas,Gris,XXL,Adidas,Hombre,Poliéster
+413,Camisas Deportiva,43,17063.93,Camisas,Rojo,M,Puma,Mujer,Poliéster
+414,Pantalones Oversize,100,1983.03,Pantalones,Negro,M,Under Armour,Unisex,Algodón
+415,Zapatillas Premium,92,4286.36,Zapatillas,Gris,XXL,Fila,Unisex,Mezcla
+416,Pantalones Oversize,125,2087.23,Pantalones,Amarillo,XL,Nike,Unisex,Mezcla
+417,Sweaters Oversize,115,10248.31,Sweaters,Gris,L,Nike,Mujer,Cuero
+418,Sweaters Premium,132,11373.39,Sweaters,Azul,M,Adidas,Unisex,Algodón
+419,Remeras Oversize,185,8974.63,Remeras,Azul,L,Nike,Unisex,Cuero
+420,Buzos Premium,40,5959.69,Buzos,Negro,L,Under Armour,Unisex,Lana
+421,Zapatillas Premium,168,19662.68,Zapatillas,Gris,XL,Adidas,Unisex,Cuero
+422,Camisas Deportiva,193,9348.65,Camisas,Amarillo,XXL,Nike,Unisex,Lana
+423,Buzos Slim,45,19238.32,Buzos,Verde,M,Nike,Hombre,Mezcla
+424,Camisas Deportiva,147,8370.89,Camisas,Gris,S,Reebok,Unisex,Cuero
+425,Camisas Clásica,129,5617.72,Camisas,Negro,XL,Adidas,Mujer,Algodón
+426,Zapatillas Slim,21,8094.87,Zapatillas,Negro,XL,Nike,Unisex,Mezcla
+427,Remeras Slim,187,11301.83,Remeras,Blanco,XXL,Adidas,Mujer,Algodón
+428,Camisas Oversize,85,2891.7,Camisas,Amarillo,XXL,Reebok,Unisex,Lana
+429,Sweaters Deportiva,76,14352.84,Sweaters,Azul,XL,Fila,Unisex,Lana
+430,Buzos Slim,41,15312.17,Buzos,Blanco,M,Adidas,Mujer,Algodón
+431,Pantalones Oversize,66,9926.08,Pantalones,Azul,L,Fila,Hombre,Poliéster
+432,Sweaters Clásica,188,2689.87,Sweaters,Rojo,XXL,Fila,Mujer,Algodón
+433,Buzos Deportiva,58,12784.05,Buzos,Blanco,XXL,Reebok,Mujer,Cuero
+434,Camisas Oversize,7,6274.31,Camisas,Negro,S,Puma,Mujer,Poliéster
+435,Zapatillas Deportiva,107,16206.11,Zapatillas,Azul,XL,Reebok,Mujer,Algodón
+436,Buzos Clásica,91,17786.71,Buzos,Rojo,S,Reebok,Hombre,Lana
+437,Buzos Deportiva,195,3691.08,Buzos,Gris,XXL,Nike,Mujer,Mezcla
+438,Pantalones Oversize,174,13139.69,Pantalones,Verde,XL,Reebok,Mujer,Algodón
+439,Camisas Deportiva,40,4736.48,Camisas,Verde,XL,Under Armour,Mujer,Cuero
+440,Remeras Oversize,124,9097.29,Remeras,Rojo,S,Fila,Hombre,Mezcla
+441,Buzos Deportiva,167,839.48,Buzos,Negro,S,Reebok,Unisex,Algodón
+442,Pantalones Premium,168,8457.96,Pantalones,Gris,M,Nike,Unisex,Algodón
+443,Buzos Deportiva,22,12064.13,Buzos,Blanco,XL,Puma,Mujer,Cuero
+444,Remeras Oversize,178,12678.16,Remeras,Blanco,L,Puma,Unisex,Poliéster
+445,Zapatillas Premium,188,14377.98,Zapatillas,Amarillo,M,Adidas,Unisex,Lana
+446,Sweaters Clásica,79,9339.41,Sweaters,Amarillo,S,Fila,Unisex,Lana
+447,Pantalones Oversize,105,16247.38,Pantalones,Gris,XL,Puma,Unisex,Poliéster
+448,Buzos Deportiva,72,1000.04,Buzos,Rojo,XXL,Under Armour,Mujer,Lana
+449,Camisas Premium,35,2416.67,Camisas,Azul,XL,Nike,Unisex,Mezcla
+450,Remeras Slim,139,4071.72,Remeras,Gris,XL,Puma,Unisex,Cuero
+451,Sweaters Oversize,34,19589.1,Sweaters,Rojo,S,Adidas,Unisex,Poliéster
+452,Sweaters Deportiva,113,17690.34,Sweaters,Negro,XL,Adidas,Unisex,Cuero
+453,Zapatillas Clásica,137,19179.34,Zapatillas,Rojo,M,Puma,Unisex,Lana
+454,Camisas Premium,113,10710.04,Camisas,Azul,XL,Under Armour,Mujer,Poliéster
+455,Camisas Deportiva,100,3089.3,Camisas,Negro,L,Adidas,Mujer,Algodón
+456,Pantalones Clásica,36,3351.66,Pantalones,Negro,S,Nike,Hombre,Mezcla
+457,Zapatillas Slim,175,15987.55,Zapatillas,Verde,S,Adidas,Unisex,Cuero
+458,Remeras Premium,10,16197.17,Remeras,Amarillo,XXL,Reebok,Unisex,Cuero
+459,Camisas Deportiva,66,13743.02,Camisas,Rojo,XL,Fila,Unisex,Mezcla
+460,Zapatillas Deportiva,46,19080.96,Zapatillas,Negro,M,Reebok,Mujer,Mezcla
+461,Zapatillas Oversize,151,1121.04,Zapatillas,Rojo,L,Reebok,Mujer,Mezcla
+462,Buzos Deportiva,115,12094.21,Buzos,Azul,M,Nike,Mujer,Mezcla
+463,Zapatillas Deportiva,123,9109.18,Zapatillas,Verde,L,Under Armour,Unisex,Cuero
+464,Pantalones Premium,91,6902.07,Pantalones,Amarillo,L,Reebok,Unisex,Cuero
+465,Buzos Clásica,120,14545.88,Buzos,Negro,M,Puma,Hombre,Lana
+466,Buzos Slim,167,10671.46,Buzos,Azul,S,Reebok,Hombre,Cuero
+467,Zapatillas Slim,19,1730.89,Zapatillas,Blanco,XXL,Nike,Unisex,Mezcla
+468,Pantalones Oversize,193,9623.98,Pantalones,Amarillo,M,Adidas,Mujer,Poliéster
+469,Pantalones Deportiva,156,13635.33,Pantalones,Azul,XL,Fila,Hombre,Cuero
+470,Camisas Oversize,164,14083.76,Camisas,Gris,XXL,Fila,Hombre,Poliéster
+471,Sweaters Clásica,71,7052.43,Sweaters,Amarillo,L,Nike,Hombre,Lana
+472,Zapatillas Premium,164,6561.87,Zapatillas,Azul,M,Reebok,Unisex,Poliéster
+473,Zapatillas Slim,11,15084.02,Zapatillas,Gris,XL,Puma,Unisex,Cuero
+474,Camisas Premium,90,19805.26,Camisas,Azul,XXL,Under Armour,Mujer,Lana
+475,Zapatillas Oversize,28,9194.24,Zapatillas,Azul,L,Adidas,Hombre,Poliéster
+476,Remeras Deportiva,63,19168.86,Remeras,Azul,XXL,Under Armour,Unisex,Lana
+477,Buzos Premium,45,4110.41,Buzos,Azul,XXL,Fila,Mujer,Algodón
+478,Buzos Deportiva,95,16717.08,Buzos,Blanco,S,Under Armour,Mujer,Poliéster
+479,Zapatillas Premium,80,6261.16,Zapatillas,Azul,M,Fila,Hombre,Mezcla
+480,Sweaters Slim,4,2393.82,Sweaters,Gris,M,Nike,Unisex,Poliéster
+481,Zapatillas Slim,27,7151.39,Zapatillas,Gris,S,Reebok,Hombre,Lana
+482,Sweaters Oversize,117,864.6,Sweaters,Amarillo,XXL,Nike,Unisex,Poliéster
+483,Zapatillas Oversize,60,16315.64,Zapatillas,Rojo,XXL,Reebok,Hombre,Cuero
+484,Remeras Oversize,170,7613.97,Remeras,Rojo,M,Adidas,Hombre,Cuero
+485,Pantalones Oversize,124,14370.03,Pantalones,Azul,L,Reebok,Mujer,Algodón
+486,Remeras Clásica,182,15083.11,Remeras,Azul,L,Under Armour,Mujer,Poliéster
+487,Zapatillas Slim,107,14787.19,Zapatillas,Negro,M,Puma,Mujer,Algodón
+488,Buzos Clásica,4,13063.63,Buzos,Azul,XXL,Fila,Mujer,Mezcla
+489,Remeras Oversize,128,2418.56,Remeras,Rojo,XL,Nike,Hombre,Lana
+490,Remeras Deportiva,176,6242.11,Remeras,Negro,XXL,Puma,Unisex,Algodón
+491,Buzos Deportiva,156,2209.46,Buzos,Blanco,L,Nike,Hombre,Poliéster
+492,Buzos Deportiva,130,4271.11,Buzos,Gris,XXL,Puma,Unisex,Lana
+493,Sweaters Slim,93,6489.24,Sweaters,Amarillo,XXL,Nike,Hombre,Lana
+494,Pantalones Deportiva,119,11920.59,Pantalones,Negro,S,Fila,Hombre,Mezcla
+495,Sweaters Slim,25,11936.94,Sweaters,Rojo,XL,Reebok,Unisex,Lana
+496,Zapatillas Oversize,63,15044.31,Zapatillas,Azul,L,Nike,Mujer,Cuero
+497,Buzos Slim,197,532.49,Buzos,Azul,XL,Puma,Unisex,Poliéster
+498,Sweaters Deportiva,184,9825.16,Sweaters,Amarillo,XL,Fila,Mujer,Cuero
+499,Zapatillas Oversize,82,12774.73,Zapatillas,Gris,XXL,Reebok,Hombre,Cuero
+500,Buzos Slim,100,8925.93,Buzos,Rojo,S,Nike,Unisex,Algodón
