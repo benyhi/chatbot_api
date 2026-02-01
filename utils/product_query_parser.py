@@ -28,13 +28,16 @@ import os
 import json
 from typing import Dict, Any, Optional
 from langchain_openai import ChatOpenAI
+import dotenv
 
-# Modelo elegido: gpt-5-mini (rápido y barato, bueno para parsing)
-LLM_MODEL = os.getenv("PARSER_MODEL", "gpt-5-mini")
-API_KEY = os.getenv("API_KEY")
+dotenv.load_dotenv()
 
-# Instanciamos el LLM (ajusta temperature si querés mayor/menor creatividad)
-llm = ChatOpenAI(model=LLM_MODEL, temperature=0.0, api_key=API_KEY, streaming=False)
+# Modelo corregido: gpt-4o-mini
+LLM_MODEL = os.getenv("PARSER_MODEL", "gpt-4o-mini")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY") or os.getenv("API_KEY")
+
+# Instanciamos el LLM
+llm = ChatOpenAI(model=LLM_MODEL, temperature=0.0, api_key=OPENAI_API_KEY, streaming=False)
 
 
 # Prompt que se le envía al LLM para que devuelva JSON estricto
@@ -56,16 +59,15 @@ Reglas:
 1. Si un campo no aparece en la consulta, devolvé null para ese campo.
 2. Normalizá precios: si el usuario dice "entre 10k y 20k" devolvé números (10000,20000).
 3. Para talles, convertí palabras como "mediano" -> "M", "grande" -> "L".
-4. consult_texto debe ser una frase corta representativa (palabras clave).
+4. consulta_texto debe ser una frase corta representativa (palabras clave).
 5. Devuelve solo JSON. Nada más.
 
 Ejemplos de entrada/JSON:
 - "Busco remera roja talle M para mujer" =>
   {{"categoria":"Remeras","color":"Rojo","talle":"M","precio":null,"stock_min":null,"marca":null,"genero":"Mujer","material":null,"consulta_texto":"remera roja talle M","limit":8}}
 
-Ahora procesá esta consulta (reemplazá THE_QUERY por la consulta exacta):
-THE_QUERY:
-\"\"\"{query}\"\"\"
+Ahora procesá esta consulta:
+{query}
 """
 
 def _call_llm_and_parse(query: str) -> Optional[Dict[str, Any]]:
@@ -74,23 +76,15 @@ def _call_llm_and_parse(query: str) -> Optional[Dict[str, Any]]:
     Retorna dict o None si falla.
     """
     prompt = PROMPT_TEMPLATE.format(query=query)
-    # Llamada al LLM
-    resp = llm.invoke([{"role": "user", "content": prompt}])
-    # langchain_openai ChatOpenAI devuelve estructura; extraemos el texto
-    # Dependiendo de la versión/adapter puede variar; soportamos dict o str
-    text_out = None
-    if isinstance(resp, dict):
-        # Intenta varios caminos
-        if "output_text" in resp:
-            text_out = resp["output_text"]
-        elif "choices" in resp and len(resp["choices"]) > 0 and "message" in resp["choices"][0]:
-            text_out = resp["choices"][0]["message"].get("content")
-        else:
-            # fallback: str(resp)
-            text_out = str(resp)
-    else:
-        text_out = str(resp)
-
+    
+    # Llamada al LLM - ChatOpenAI devuelve un objeto AIMessage
+    resp = llm.invoke(prompt)
+    
+    # Extraer el contenido del mensaje
+    text_out = resp.content
+    
+    print(f"DEBUG - LLM Response: {text_out}")  # Para debug
+    
     # El modelo debe devolver JSON; limpiamos y parseamos
     try:
         # a veces hay código o backticks: extraemos la primera llave { ... }
@@ -100,12 +94,8 @@ def _call_llm_and_parse(query: str) -> Optional[Dict[str, Any]]:
         parsed = json.loads(json_str)
         return parsed
     except Exception as e:
-        # fallback: intentamos heurística sencilla (muy básica)
-        try:
-            return json.loads(text_out)
-        except Exception:
-            # si falla, devolvemos None para que el caller maneje el error
-            return None
+        print(f"DEBUG - JSON Parse Error: {e}")  # Para debug
+        return None
 
 
 # Utilidad para normalizar talles básicos

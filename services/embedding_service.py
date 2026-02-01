@@ -1,7 +1,6 @@
 import pandas as pd
 import chromadb
 from openai import OpenAI
-from chromadb.config import Settings
 from uuid import uuid4
 import os
 from dotenv import load_dotenv
@@ -10,11 +9,10 @@ load_dotenv()
 client = OpenAI(api_key=os.getenv("API_KEY"))
 
 # ---- Cargar datos de productos ----
-df = pd.read_csv("database/csv/tienda_ropa_1000.csv")
+df = pd.read_csv("D:\\proyectos\\chatbot_api\\database\\csv\\tienda_ropa_500.csv")
 
-# ---- Crear instancia de Chroma ----
-chroma_client = chromadb.Client(Settings(chroma_db_impl="duckdb+parquet",
-                                         persist_directory="chroma_db"))
+# ---- Crear instancia de Chroma (nueva sintaxis) ----
+chroma_client = chromadb.PersistentClient(path="chroma_db")
 collection = chroma_client.get_or_create_collection(
     name="productos",
     metadata={"hnsw:space": "cosine"}  # métrica de similitud

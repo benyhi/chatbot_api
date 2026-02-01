@@ -16,40 +16,73 @@ class ProductRepository:
 
     def _build_where_clause(self, parsed: Dict[str, Any]) -> Dict[str, Any]:
         """
-        Construye un where simple para Chroma usando solo filtros exactos.
-        (Categoría, color, talle, marca, genero, material)
+        Construye un where seguro para Chroma.
+        Acepta múltiples filtros exactos.
+        Ignora valores vacíos, None, dicts o listas.
         """
         where = {}
-        for key in ("categoria", "color", "talle", "marca", "genero", "material"):
+        allowed_keys = ("categoria", "color", "talle", "marca", "genero", "material")
+
+        for key in allowed_keys:
             val = parsed.get(key)
-            if val:
-                # Normalizamos a string simple (Chroma expects simple key->value)
-                where[key] = val
+
+            if not val:
+                continue
+
+            # Chroma SOLO acepta strings o valores primitivos simples
+            # Si el parser te devuelve lista o dict → lo descartamos (o elegimos uno)
+            if isinstance(val, (list, dict)):
+                # Elegimos el primer valor válido si es lista
+                if isinstance(val, list) and len(val) > 0:
+                    val = str(val[0])
+                else:
+                    # Si es dict o algo raro → no lo usamos como filtro exacto
+                    continue
+
+            # Convertimos a string siempre
+            where[key] = str(val).strip()
+
         return where
+
 
     def _post_filter(self, item_meta: Dict[str, Any], parsed: Dict[str, Any]) -> bool:
         """
-        Aplica filtrado adicional que Chroma podría no soportar (rangos: precio, stock).
-        item_meta es el metadata devuelto por Chroma para cada documento.
+        Filtrado adicional que Chroma no puede resolver solo.
+        Soporta:
+        - precio: rangos {gte, lte}
+        - stock mínimo: stock o cantidad
         """
-        price_filter = parsed.get("precio")  # dict {gte, lte} o None
-        if price_filter and item_meta.get("precio") is not None:
-            p = float(item_meta.get("precio"))
-            if price_filter.get("gte") is not None and p < price_filter["gte"]:
+
+        # --- FILTRO DE PRECIO ---
+        price_filter = parsed.get("precio")  # dict con gte/lte
+        if price_filter:
+            try:
+                p = float(item_meta.get("precio", 0))
+            except:
+                return False  # si el precio no es numérico, se descarta
+
+            gte = price_filter.get("gte")
+            lte = price_filter.get("lte")
+
+            if gte is not None and p < gte:
                 return False
-            if price_filter.get("lte") is not None and p > price_filter["lte"]:
+            if lte is not None and p > lte:
                 return False
 
+        # --- FILTRO DE STOCK ---
         stock_min = parsed.get("stock_min")
         if stock_min is not None:
+            # Intentamos leer stock, si no existe: 0
             try:
                 stock_val = int(item_meta.get("stock", item_meta.get("cantidad", 0)))
             except:
                 stock_val = 0
+
             if stock_val < int(stock_min):
                 return False
 
         return True
+
 
     def _distance_to_score(self, distance: float) -> float:
         """
@@ -93,7 +126,6 @@ class ProductRepository:
             results = collection.query(
                 query_embeddings=[query_embedding],
                 n_results=n_results,
-                where=where if where else None,
             )
         except TypeError:
             # Fallback si la signature no acepta where en esta versión:

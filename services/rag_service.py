@@ -8,6 +8,7 @@ import os
 
 dotenv.load_dotenv()
 
+#Servicio de RAG (Retrieval-Augmented Generation) con ChromaDB y OpenAI Embeddings
 class RagService:
     def __init__(
         self,
@@ -92,6 +93,8 @@ class RagService:
         query_embedding = self.embeddings.embed_query(query)
 
         results = collection.query(query_embeddings=[query_embedding], n_results=k)
+
+        print("Resultados de la consulta RAG:", results) #DEBUG
 
         docs = results.get("documents", [[]])[0]
         metas = results.get("metadatas", [[]])[0]
